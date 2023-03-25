@@ -1,0 +1,2092 @@
+replayId,winnerPlayerIndex,turns,actions,mapId,isStd,isBoot,mapName,winnerCoName,winnerUserName
+6433,1,16,646,263,False,True,Crixalis,Lin,Heroes
+6412,1,18,795,263,False,False,Crixalis,Mira,TMQs
+6357,1,16,669,263,False,False,Crixalis,Lin,Lolom
+6322,2,21,1028,263,False,False,Crixalis,Grat,Ndrangheta'
+6263,2,14,556,263,False,False,Crixalis,Isabella,BusterBeachside
+6206,2,11,369,263,False,True,Crixalis,Caulder,Draco
+6142,2,30,1534,263,False,False,Crixalis,Forsythe,Frodoor
+6141,1,16,670,263,False,False,Crixalis,Hawk,SSAO
+6139,2,13,509,263,False,False,Crixalis,Caulder,Ndrangheta'
+6116,2,14,613,263,False,False,Crixalis,Isabella,PhantomFullForce
+6024,1,14,542,263,False,False,Crixalis,Tabitha,BWAVE
+6022,2,17,733,263,False,False,Crixalis,Hawk,Ritmo
+5936,1,19,841,263,False,False,Crixalis,Gage,SparkFox
+5902,1,11,375,263,False,True,Crixalis,Forsythe,Kurau
+5863,2,13,486,263,False,False,Crixalis,Waylon,Heroes
+5859,1,15,559,263,False,True,Crixalis,Tabitha,Mike Zack
+6428,2,16,517,4,False,False,All Roads Lead To Sol,Grat,Ritmo
+6374,1,19,640,4,False,False,All Roads Lead To Sol,Lin,Lordofcold
+6346,2,15,453,4,False,False,All Roads Lead To Sol,Hawk,Ndrangheta'
+6329,2,16,475,4,False,False,All Roads Lead To Sol,Hawk,Tee Lord
+6285,1,16,551,4,False,False,All Roads Lead To Sol,Will,PhantomFullForce
+6181,0,45,1568,4,False,False,All Roads Lead To Sol,,
+6180,1,14,423,4,False,True,All Roads Lead To Sol,Tabitha,BWAVE
+6111,1,20,682,4,False,False,All Roads Lead To Sol,Brenner,SSAO
+6076,1,7,148,4,False,True,All Roads Lead To Sol,Mira,Ritmo
+6062,1,11,287,4,False,True,All Roads Lead To Sol,Brenner,Chopstix
+6039,1,16,552,4,False,False,All Roads Lead To Sol,Brenner,BWAVE
+6033,2,15,466,4,False,False,All Roads Lead To Sol,Brenner,Ritmo
+6019,2,16,507,4,False,False,All Roads Lead To Sol,Brenner,Mini Nini
+5932,1,11,287,4,False,True,All Roads Lead To Sol,Will,Heroes
+5891,1,20,700,4,False,False,All Roads Lead To Sol,Grat,Ritmo
+5869,1,21,660,4,False,True,All Roads Lead To Sol,Tabitha,Tee Lord
+5840,2,11,287,4,False,False,All Roads Lead To Sol,Tabitha,BWAVE
+5834,2,27,968,4,False,False,All Roads Lead To Sol,Tabitha,SparkFox
+6425,2,19,964,243,True,True,White Nova,Will,TMQs
+6324,1,16,683,243,True,False,White Nova,Penny,Frodoor
+6213,2,21,1156,243,True,False,White Nova,Greyfield,PhantomFullForce
+6148,1,13,509,243,True,False,White Nova,Hawk,Rush_FTK
+6138,1,26,1230,243,True,False,White Nova,Tinker,Ndrangheta'
+6134,1,11,387,243,True,True,White Nova,Greyfield,Getaway Driver
+6070,1,16,693,243,True,True,White Nova,Waylon,Draco
+6010,2,26,1389,243,True,False,White Nova,Zhaotiantong,GM667_
+5928,2,21,1249,243,True,False,White Nova,Greyfield,BleakHorizon
+5926,2,12,403,243,True,False,White Nova,Penny,Sliicer
+5845,1,10,324,243,True,True,White Nova,Caulder,Lolom
+5807,2,15,639,243,True,False,White Nova,Penny,Frodoor
+5757,2,17,799,243,True,False,White Nova,Forsythe,TheMuffins
+5695,1,16,711,243,True,False,White Nova,Tabitha,Nanao
+6424,2,15,528,127,False,True,Bike festival,Hawk,Chopstix
+6306,2,14,479,127,False,False,Bike festival,Brenner,Ritmo
+6284,2,17,624,127,False,False,Bike festival,Lin,Heroes
+6258,2,17,645,127,False,False,Bike festival,Tabitha,Tee Lord
+6249,0,22,893,127,False,False,Bike festival,,
+6241,2,31,1851,127,False,False,Bike festival,Isabella,Mini Nini
+6232,1,19,770,127,False,False,Bike festival,Brenner,Ritmo
+6118,2,15,557,127,False,False,Bike festival,Lin,PhantomFullForce
+6117,1,20,879,127,False,True,Bike festival,Lin,Lolom
+6097,1,15,581,127,False,False,Bike festival,Penny,Heroes
+6055,1,15,494,127,False,True,Bike festival,Brenner,Heroes
+6044,1,18,712,127,False,False,Bike festival,Isabella,BWAVE
+6030,2,21,922,127,False,False,Bike festival,Hawk,Ndrangheta'
+5991,2,25,1031,127,False,False,Bike festival,Hawk,Tee Lord
+5907,1,18,700,127,False,False,Bike festival,Isabella,HoshiNoKoe13
+5896,2,17,693,127,False,False,Bike festival,Tabitha,BWAVE
+5882,1,19,716,127,False,False,Bike festival,Hawk,Chopstix
+5871,2,16,565,127,False,True,Bike festival,Mira,Lolom
+5855,1,24,1128,127,False,False,Bike festival,Forsythe,PhantomFullForce
+5843,1,19,825,127,False,False,Bike festival,Hawk,Tee Lord
+5789,1,18,659,127,False,False,Bike festival,Lin,Ritmo
+5760,2,9,225,127,False,True,Bike festival,Will,Heroes
+5664,1,9,252,127,False,True,Bike festival,Penny,SparkFox
+5613,1,14,500,127,False,True,Bike festival,Waylon,TMQs
+5583,1,26,927,127,False,False,Bike festival,Hawk,Chopstix
+5498,1,17,661,127,False,False,Bike festival,Brenner,Ndrangheta'
+5381,2,24,968,127,False,False,Bike festival,Caulder,Mike Zack
+5368,1,11,356,127,False,True,Bike festival,Tinker,Nanao
+5342,2,16,622,127,False,False,Bike festival,Mira,BWAVE
+5311,1,18,833,127,False,False,Bike festival,Penny,Mahizzle
+5254,1,22,1011,127,False,False,Bike festival,Caulder,Tayufa
+5182,1,8,206,127,False,True,Bike festival,Brenner,Dyslexic Lizard
+5146,1,14,568,127,False,False,Bike festival,Will,BWAVE
+5133,2,16,652,127,False,False,Bike festival,Isabella,Lordofcold
+5074,1,20,898,127,False,False,Bike festival,Lin,Feda
+5027,1,20,935,127,False,True,Bike festival,Forsythe,PhantomFullForce
+4985,1,19,776,127,False,True,Bike festival,Will,Ghancc
+4903,1,37,1894,127,False,False,Bike festival,Penny,Mahizzle
+4894,2,14,527,127,False,False,Bike festival,Caulder,Average__Joe
+4871,2,7,142,127,False,True,Bike festival,Isabella,TheManCalledBen
+4838,2,15,564,127,False,False,Bike festival,Lee,Curiosity
+4833,2,15,554,127,False,False,Bike festival,Tabitha,Feda
+4797,2,21,978,127,False,False,Bike festival,Forsythe,Feda
+4779,2,16,587,127,False,False,Bike festival,Will,Ghancc
+4760,2,9,225,127,False,True,Bike festival,Tasha,TMQs
+4547,1,25,1061,127,False,False,Bike festival,Hawk,Tee Lord
+4546,2,23,1018,127,False,False,Bike festival,Tabitha,FindMyNeotank
+4533,2,54,2665,127,False,False,Bike festival,Lin,King Arthur
+4481,2,26,1261,127,False,True,Bike festival,Brenner,Rush_FTK
+4462,1,10,296,127,False,True,Bike festival,Grat,Villefort
+4441,2,19,767,127,False,True,Bike festival,Tabitha,ReZurRekt843
+4423,2,10,284,127,False,True,Bike festival,Forsythe,Nuclear Rat
+4400,2,13,424,127,False,True,Bike festival,Brenner,Sgt.Chloride
+4353,2,16,637,127,False,False,Bike festival,Will,Mini Nini
+4263,1,19,803,127,False,True,Bike festival,Brenner,Ace737
+4235,2,15,604,127,False,False,Bike festival,Isabella,Akubjay
+4191,2,21,1003,127,False,False,Bike festival,Isabella,Average__Joe
+4177,2,15,566,127,False,False,Bike festival,Mira,Antihero
+4157,2,17,623,127,False,True,Bike festival,Zhaotiantong,Zerobillion
+4145,2,17,707,127,False,False,Bike festival,Penny,zielinskigr
+4141,1,21,918,127,False,False,Bike festival,Isabella,RayKadoodles
+3977,1,28,1189,127,False,False,Bike festival,Forsythe,levelport
+3950,2,21,971,127,False,True,Bike festival,Penny,Arckos
+3669,1,12,436,127,False,False,Bike festival,Tabitha,TheManCalledBen
+3628,1,25,1169,127,False,False,Bike festival,Isabella,RayKadoodles
+3605,2,18,745,127,False,False,Bike festival,Isabella,Wellaran
+3505,2,32,1360,127,False,False,Bike festival,Lin,Zerobillion
+3500,1,16,629,127,False,False,Bike festival,Tabitha,Spartacous
+3459,2,18,776,127,False,False,Bike festival,Isabella,Average__Joe
+3361,2,12,368,127,False,True,Bike festival,Grat,Astady
+3316,1,13,473,127,False,False,Bike festival,Isabella,RayKadoodles
+3295,1,7,152,127,False,True,Bike festival,Isabella,d_def
+3204,2,11,337,127,False,False,Bike festival,Tabitha,Aimline
+3160,2,21,908,127,False,False,Bike festival,Isabella,RayKadoodles
+3118,1,16,656,127,False,False,Bike festival,Isabella,Maleous
+3032,1,15,576,127,False,False,Bike festival,Hawk,Rush_FTK
+3031,1,17,700,127,False,False,Bike festival,Lin,mathblitz
+2976,1,30,1292,127,False,False,Bike festival,Isabella,BusterBeachside
+2965,1,10,283,127,False,False,Bike festival,Lin,Lordofcold
+2938,1,32,1920,127,False,False,Bike festival,Grat,Plague
+2834,2,17,649,127,False,False,Bike festival,Brenner,DC290
+2820,2,11,346,127,False,False,Bike festival,Penny,Sliicer
+2796,1,25,954,127,False,False,Bike festival,Hawk,Avalon
+2753,2,17,677,127,False,False,Bike festival,Penny,Sliicer
+2668,2,11,334,127,False,False,Bike festival,Lin,Maleous
+2576,1,22,923,127,False,False,Bike festival,Tabitha,BusterBeachside
+2447,1,28,1052,127,False,False,Bike festival,Penny,jinbin
+6422,1,24,946,96,True,False,MOEbius,Caulder,ePiiC PaNiiC
+6403,2,18,651,96,True,False,MOEbius,Tinker,Abreu
+6362,2,17,600,96,True,False,MOEbius,Penny,BusterBeachside
+6266,2,16,518,96,True,False,MOEbius,Tabitha,Nanao
+6264,2,17,607,96,True,False,MOEbius,Caulder,Deremius
+6242,2,8,190,96,True,True,MOEbius,Caulder,PhantomFullForce
+6202,1,19,727,96,True,True,MOEbius,Brenner,SSAO
+6185,2,16,530,96,True,False,MOEbius,Hawk,Chopstix
+6164,1,18,699,96,True,False,MOEbius,Will,Nanao
+6132,1,9,219,96,True,True,MOEbius,Tabitha,HoshiNoKoe13
+6096,1,24,1001,96,True,False,MOEbius,Lin,GM667_
+6051,2,18,646,96,True,False,MOEbius,Penny,DC290
+6048,2,16,533,96,True,False,MOEbius,Will,Heroes
+5969,1,15,529,96,True,False,MOEbius,Tabitha,BWAVE
+5968,2,21,821,96,True,False,MOEbius,Brenner,TheMuffins
+5924,1,18,685,96,True,False,MOEbius,Caulder,PhantomFullForce
+5917,1,7,167,96,True,True,MOEbius,Isabella,Nonova
+5767,1,21,724,96,True,False,MOEbius,Will,Chopstix
+5717,2,19,658,96,True,False,MOEbius,Will,Heroes
+5706,1,14,442,96,True,False,MOEbius,Hawk,Chopstix
+5672,2,12,367,96,True,False,MOEbius,Penny,Nanao
+5481,2,22,811,96,True,False,MOEbius,Brenner,IDSSleeperAgent
+5461,1,14,463,96,True,False,MOEbius,Tabitha,HoshiNoKoe13
+5451,1,13,462,96,True,False,MOEbius,Grat,Nanao
+5412,1,17,720,96,True,False,MOEbius,Will,Adnavacake
+5379,2,6,109,96,True,True,MOEbius,Hawk,Ndrangheta'
+5237,1,13,458,96,True,False,MOEbius,Brenner,SSAO
+5222,2,18,649,96,True,False,MOEbius,Caulder,chichote
+5183,1,16,491,96,True,False,MOEbius,Tinker,Nanao
+5128,1,13,423,96,True,False,MOEbius,Brenner,Barondoctor
+5028,2,18,709,96,True,True,MOEbius,Brenner,xrumblingcdsx
+5001,2,13,375,96,True,False,MOEbius,Penny,Nanao
+4993,1,11,345,96,True,False,MOEbius,Penny,Abreu
+4980,1,23,900,96,True,False,MOEbius,Brenner,Chopstix
+4922,2,22,959,96,True,True,MOEbius,Forsythe,Raguna
+4881,1,18,745,96,True,False,MOEbius,Caulder,Deremius
+4865,1,12,415,96,True,True,MOEbius,Tabitha,Operation Mechstorm
+4824,2,16,635,96,True,False,MOEbius,Forsythe,PhantomFullForce
+4788,2,25,897,96,True,False,MOEbius,Brenner,chichote
+4728,1,20,801,96,True,False,MOEbius,Will,JTQWN
+4715,1,13,438,96,True,False,MOEbius,Caulder,Nanao
+4644,2,20,769,96,True,False,MOEbius,Forsythe,Lordofcold
+4592,1,14,599,96,True,False,MOEbius,Isabella,Hurricane_Slash
+4562,1,11,353,96,True,True,MOEbius,Hawk,Geko
+4434,2,9,241,96,True,False,MOEbius,Penny,JTQWN
+4384,2,7,139,96,True,True,MOEbius,Penny,StaleBread
+4335,1,20,858,96,True,True,MOEbius,Brenner,King Arthur
+4301,1,17,674,96,True,False,MOEbius,Isabella,DM11
+4300,2,13,418,96,True,False,MOEbius,Zhaotiantong,JTQWN
+4294,1,19,757,96,True,False,MOEbius,Lin,Pistolaceo
+4288,2,30,1174,96,True,False,MOEbius,Brenner,Napoleon
+4287,1,16,655,96,True,False,MOEbius,Tabitha,JTQWN
+4275,1,20,870,96,True,False,MOEbius,Forsythe,Penny!
+4243,1,12,363,96,True,False,MOEbius,Will,Nuclear Rat
+4208,2,15,556,96,True,True,MOEbius,Lin,King Arthur
+4080,2,15,481,96,True,True,MOEbius,Isabella,GM667_
+4068,1,12,396,96,True,False,MOEbius,Penny,BusterBeachside
+4016,1,7,169,96,True,True,MOEbius,Forsythe,Whealy
+3999,2,31,1324,96,True,False,MOEbius,Forsythe,Saiky27
+3973,2,8,182,96,True,True,MOEbius,Penny,ePiiC PaNiiC
+3948,2,25,1020,96,True,False,MOEbius,Hawk,Pit89
+3894,1,11,341,96,True,False,MOEbius,Will,Frodoor
+3842,1,12,422,96,True,False,MOEbius,Grat,twan
+3835,1,12,385,96,True,True,MOEbius,Zhaotiantong,Comcap
+3816,1,15,594,96,True,False,MOEbius,Hawk,FindMyNeotank
+3809,1,19,893,96,True,False,MOEbius,Grat,Wellaran
+3792,2,15,606,96,True,False,MOEbius,Tabitha,Profeta7
+3769,1,8,210,96,True,False,MOEbius,Tabitha,NMX2
+3733,2,12,356,96,True,False,MOEbius,Isabella,Wellaran
+3622,1,17,562,96,True,False,MOEbius,Tabitha,Spartacous
+3620,1,10,302,96,True,True,MOEbius,Tinker,LeLieuTenant
+3618,2,10,294,96,True,False,MOEbius,Lee,overlordto12
+3581,2,15,538,96,True,False,MOEbius,Grat,KaelDra27
+3508,2,28,1261,96,True,False,MOEbius,Tabitha,NeroZonbolt
+3473,2,14,431,96,True,False,MOEbius,Tabitha,Saiky27
+3455,2,13,434,96,True,False,MOEbius,Isabella,Deejus
+3367,2,8,66,96,True,False,MOEbius,Greyfield,Saiky27
+3255,1,13,390,96,True,False,MOEbius,Gage,Pop Tart
+3227,2,9,213,96,True,True,MOEbius,Tabitha,woshiwaiguoren
+3223,2,13,447,96,True,False,MOEbius,Lee,RamblinEvilMushroom
+3221,2,12,358,96,True,True,MOEbius,Penny,LenWan
+3185,2,14,440,96,True,False,MOEbius,Penny,TheManCalledBen
+3174,2,20,811,96,True,False,MOEbius,Will,CommanderLuciel
+3124,1,17,500,96,True,False,MOEbius,Zhaotiantong,Maleous
+3106,1,9,248,96,True,False,MOEbius,Will,sarastro
+3102,2,30,1285,96,True,False,MOEbius,Lin,ePiiC PaNiiC
+3065,2,14,459,96,True,False,MOEbius,Grat,Adept999
+2915,1,11,360,96,True,False,MOEbius,Brenner,xrumblingcdsx
+2833,1,15,565,96,True,False,MOEbius,Hawk,Rush_FTK
+2800,2,12,391,96,True,False,MOEbius,Greyfield,Chan ' tcho
+2787,2,31,1289,96,True,False,MOEbius,Hawk,_5C_
+2785,2,13,426,96,True,False,MOEbius,Isabella,Lordofcold
+2747,1,15,558,96,True,False,MOEbius,Zhaotiantong,Monsters_vs_MyDad
+2717,2,10,292,96,True,True,MOEbius,Penny,AdvanceWarrior
+2694,2,13,465,96,True,False,MOEbius,Lin,Lordofcold
+2596,1,17,713,96,True,False,MOEbius,Grat,zhaotiantong
+2592,1,16,558,96,True,False,MOEbius,(No CO),FUULROD
+2572,1,15,399,96,True,False,MOEbius,Isabella,史莱喵。
+2557,2,17,629,96,False,True,MOEbius,Penny,BusterBeachside
+2548,1,10,308,96,True,True,MOEbius,Penny,Sliicer
+2536,2,9,220,96,True,False,MOEbius,Tabitha,Maleous
+2490,1,26,1247,96,True,False,MOEbius,Mira,Rush_FTK
+2314,2,16,590,96,False,False,MOEbius,Brenner,Mini Nini
+2299,1,13,416,96,False,True,MOEbius,Lee,Mini Nini
+2253,2,13,430,96,False,True,MOEbius,Brenner,BusterBeachside
+2246,1,39,2094,96,False,False,MOEbius,Mira,Rush_FTK
+2216,1,6,127,96,False,True,MOEbius,Caulder,Rush_FTK
+2184,2,19,725,96,False,False,MOEbius,Lin,Mini Nini
+2171,2,15,569,96,False,False,MOEbius,Tabitha,Red-One
+2146,1,12,429,96,False,False,MOEbius,Lin,Red-One
+2133,1,27,1256,96,False,False,MOEbius,Will,Red-One
+2131,1,19,781,96,False,False,MOEbius,Grat,Avalon
+2045,2,17,677,96,False,False,MOEbius,Hawk,Avalon
+6420,1,19,664,241,True,False,Terrestrial Arena,Tabitha,Nanao
+6410,2,17,523,241,True,False,Terrestrial Arena,Tabitha,Nanao
+6336,2,23,727,241,True,False,Terrestrial Arena,Lee,DM11
+6309,2,8,157,241,True,False,Terrestrial Arena,Hawk,Mini Nini
+6236,2,14,397,241,True,False,Terrestrial Arena,Lin,Heroes
+6233,2,15,447,241,True,False,Terrestrial Arena,Lin,AdvanceWarrior
+6122,1,15,458,241,True,False,Terrestrial Arena,Will,Chopstix
+6115,1,19,604,241,True,False,Terrestrial Arena,Brenner,Heroes
+6102,1,11,291,241,True,False,Terrestrial Arena,Brenner,SSAO
+6091,2,11,282,241,True,False,Terrestrial Arena,Caulder,Frodoor
+5973,1,11,303,241,True,False,Terrestrial Arena,Caulder,HoshiNoKoe13
+5951,1,13,379,241,True,False,Terrestrial Arena,Tabitha,BWAVE
+5923,2,18,590,241,True,False,Terrestrial Arena,Penny,Getaway Driver
+5911,1,26,848,241,True,False,Terrestrial Arena,Tabitha,Draco
+5837,2,16,457,241,True,False,Terrestrial Arena,Hawk,Chopstix
+5835,1,19,602,241,True,False,Terrestrial Arena,Will,Heroes
+5741,2,19,560,241,True,False,Terrestrial Arena,Tinker,Nanao
+6419,1,16,568,122,True,True,Spillover,Isabella,Getaway Driver
+6386,2,19,735,122,True,False,Spillover,Will,Lordofcold
+6366,1,28,1623,122,True,False,Spillover,Penny,DM11
+6332,2,13,423,122,True,False,Spillover,Hawk,Chopstix
+6317,2,11,306,122,True,True,Spillover,Tinker,Mike Zack
+6283,1,15,570,122,True,False,Spillover,Will,sarastro
+6259,1,13,396,122,True,False,Spillover,Tabitha,Nanao
+6235,2,20,721,122,True,False,Spillover,Penny,Nanao
+6169,2,20,777,122,True,False,Spillover,Zhaotiantong,BWAVE
+6151,1,13,437,122,True,False,Spillover,Hawk,Chopstix
+6144,1,9,247,122,True,True,Spillover,Grat,SparkFox
+6119,2,18,691,122,True,False,Spillover,Isabella,Ndrangheta'
+6065,2,7,136,122,True,True,Spillover,Caulder,Draco
+6028,1,13,419,122,True,False,Spillover,Tabitha,Nanao
+5982,2,23,922,122,True,False,Spillover,Brenner,TheMuffins
+5978,2,23,1059,122,True,False,Spillover,Lin,Plague
+5967,2,17,597,122,True,False,Spillover,Will,PhantomFullForce
+5853,1,12,398,122,True,False,Spillover,Tabitha,BWAVE
+5801,2,17,638,122,False,False,Spillover,Penny,Sliicer
+5733,2,20,825,122,False,False,Spillover,Brenner,Lordofcold
+5731,2,17,633,122,True,False,Spillover,Hawk,Chopstix
+5719,2,14,501,122,True,False,Spillover,Penny,Sliicer
+5669,2,18,683,122,True,False,Spillover,Tinker,Lolom
+5631,1,16,542,122,False,False,Spillover,Tabitha,Nanao
+5625,2,6,105,122,False,True,Spillover,Grat,joebrooklyn39
+5611,2,15,490,122,False,True,Spillover,Brenner,Barondoctor
+5594,1,17,607,122,False,False,Spillover,Will,Heroes
+5576,2,16,568,122,False,False,Spillover,Tabitha,Nanao
+5494,1,29,1372,122,False,False,Spillover,Will,Ghancc
+5468,1,9,235,122,False,True,Spillover,Will,Heroes
+5411,2,16,444,122,False,False,Spillover,Waylon,Heroes
+5367,1,11,345,122,False,True,Spillover,Forsythe,Deremius
+5366,1,6,120,122,False,True,Spillover,Lin,Mike Zack
+5345,1,14,516,122,False,False,Spillover,Will,Plague
+4995,2,14,464,122,False,False,Spillover,Will,Ghancc
+4990,1,28,1235,122,False,False,Spillover,Tabitha,PhantomFullForce
+4898,2,14,453,122,False,False,Spillover,Isabella,Nanao
+4765,2,7,141,122,False,True,Spillover,Forsythe,MicrOvven
+4738,2,19,729,122,False,False,Spillover,Lin,Ghancc
+4729,1,20,838,122,False,False,Spillover,Brenner,Mahizzle
+4679,2,12,367,122,False,False,Spillover,Will,Hurricane_Slash
+4651,2,18,700,122,False,False,Spillover,Brenner,Mahizzle
+4649,1,24,967,122,False,False,Spillover,Greyfield,xaltt
+4642,2,15,534,122,False,False,Spillover,Caulder,Divva
+4637,1,11,349,122,False,False,Spillover,Tabitha,Red-One
+4612,1,19,680,122,False,False,Spillover,Hawk,Tee Lord
+4523,2,20,777,122,False,False,Spillover,Will,RayKadoodles
+4518,1,14,516,122,False,False,Spillover,Caulder,zielinskigr
+4492,1,15,545,122,False,False,Spillover,Will,Lordofcold
+4451,2,7,143,122,False,True,Spillover,Zhaotiantong,Mini Nini
+4389,1,13,435,122,False,True,Spillover,Hawk,Pit89
+4370,2,24,1097,122,False,False,Spillover,Penny,Antihero
+4363,2,17,666,122,False,False,Spillover,Zhaotiantong,Penny!
+4356,2,11,340,122,False,False,Spillover,Forsythe,PhantomFullForce
+4308,1,18,738,122,False,False,Spillover,Penny,Fluttyx
+4299,1,22,920,122,False,False,Spillover,Hawk,Fluttyx
+4293,1,6,123,122,False,True,Spillover,Zhaotiantong,Antihero
+4180,2,13,429,122,False,False,Spillover,Brenner,Aidan
+4155,2,11,347,122,False,False,Spillover,Caulder,Average__Joe
+4115,2,13,436,122,False,True,Spillover,Mira,FindMyNeotank
+4075,2,17,659,122,False,False,Spillover,Will,Aidan
+4024,1,14,472,122,False,False,Spillover,Tabitha,Darq
+4001,1,13,448,122,False,False,Spillover,Tabitha,LuarSoleil
+3992,1,17,674,122,False,False,Spillover,Will,BusterBeachside
+3726,2,15,543,122,False,False,Spillover,Greyfield,Chan ' tcho
+3677,2,14,495,122,False,False,Spillover,Grat,Antihero
+3644,2,15,520,122,False,False,Spillover,Greyfield,Chan ' tcho
+3623,2,9,219,122,False,False,Spillover,Forsythe,NeroZonbolt
+3580,1,21,851,122,False,False,Spillover,Forsythe,PhantomFullForce
+3546,2,22,878,122,False,False,Spillover,Isabella,Antihero
+3512,2,52,2103,122,False,False,Spillover,Tabitha,KaelDra27
+3476,1,16,587,122,False,False,Spillover,Will,Akubjay
+3461,1,22,963,122,False,False,Spillover,Lin,FindMyNeotank
+3340,1,14,463,122,False,False,Spillover,Brenner,LeLieuTenant
+3216,2,15,532,122,False,False,Spillover,Forsythe,Lordofcold
+3179,2,10,232,122,False,True,Spillover,Forsythe,Knock
+3107,1,14,520,122,False,False,Spillover,Tabitha,Aimline
+2927,1,15,528,122,False,False,Spillover,Forsythe,Akubjay
+2907,1,14,525,122,False,False,Spillover,Tabitha,Akubjay
+2903,1,17,600,122,False,True,Spillover,Will,Chan ' tcho
+2888,2,26,1178,122,False,False,Spillover,Zhaotiantong,Mini Nini
+2882,2,10,270,122,False,True,Spillover,Brenner,Akubjay
+2828,1,7,156,122,False,True,Spillover,Hawk,_5C_
+2763,2,12,331,122,False,False,Spillover,Tabitha,Red-One
+2715,2,8,171,122,False,False,Spillover,Tabitha,Red-One
+2702,1,13,468,122,False,False,Spillover,Lin,badbadbad
+2637,1,16,605,122,False,False,Spillover,Lin,Mini Nini
+2575,2,18,682,122,False,False,Spillover,Zhaotiantong,Mini Nini
+2562,1,14,499,122,False,True,Spillover,Grat,su. 
+2540,0,39,2041,122,False,False,Spillover,,
+2455,1,11,332,122,False,False,Spillover,Tabitha,purifierwarmech
+2454,2,17,672,122,False,False,Spillover,Zhaotiantong,Mini Nini
+2398,0,6,92,122,False,False,Spillover,,
+2335,1,7,152,122,False,True,Spillover,Lin,Super Vlad
+2308,1,14,477,122,False,False,Spillover,Tabitha,FUULROD
+2217,1,13,455,122,False,True,Spillover,Caulder,Rush_FTK
+2214,2,13,414,122,False,False,Spillover,Brenner,Mini Nini
+2201,1,15,547,122,False,False,Spillover,Isabella,R'loc
+2112,1,19,712,122,False,False,Spillover,Caulder,Avalon
+2062,1,11,340,122,False,False,Spillover,Gage,sarastro
+6415,2,10,250,196,True,True,Deep Conquest,Mira,Nanao
+6414,1,15,580,196,True,False,Deep Conquest,Will,Mini Nini
+6390,2,25,1048,196,True,False,Deep Conquest,Hawk,Chopstix
+6364,2,17,688,196,True,False,Deep Conquest,Brenner,Ndrangheta'
+6340,1,14,508,196,True,False,Deep Conquest,Hawk,Chopstix
+6299,2,21,825,196,True,False,Deep Conquest,Hawk,Chopstix
+6255,1,23,1003,196,True,False,Deep Conquest,Tabitha,Nanao
+6211,2,13,425,196,True,True,Deep Conquest,Brenner,TheMuffins
+6204,2,25,1377,196,True,False,Deep Conquest,Penny,DM11
+6179,1,21,1071,196,True,False,Deep Conquest,Will,不是icy
+6153,1,18,733,196,True,False,Deep Conquest,Hawk,Chopstix
+6127,1,31,1500,196,True,False,Deep Conquest,Lee,Nanao
+6124,2,12,397,196,True,False,Deep Conquest,Forsythe,Chopstix
+6075,1,15,555,196,True,False,Deep Conquest,Tinker,Mini Nini
+5980,2,18,699,196,True,False,Deep Conquest,Isabella,Nanao
+5943,2,22,1025,196,True,False,Deep Conquest,Waylon,PhantomFullForce
+5824,1,19,756,196,True,False,Deep Conquest,Brenner,TheMuffins
+6409,1,27,1130,150,True,False,Relegate,Tabitha,Nanao
+6389,1,13,472,150,True,False,Relegate,Lin,Heroes
+6334,2,9,247,150,True,False,Relegate,Zhaotiantong,Mini Nini
+6248,1,13,415,150,True,False,Relegate,Caulder,Nanao
+6223,1,15,566,150,True,False,Relegate,Will,PhantomFullForce
+6220,2,14,502,150,True,False,Relegate,Tasha,TMQs
+6149,2,9,238,150,True,False,Relegate,Tabitha,Nanao
+6129,1,7,194,150,True,False,Relegate,Lin,Heroes
+6077,1,14,550,150,True,False,Relegate,Penny,Frodoor
+6041,2,9,259,150,True,False,Relegate,Zhaotiantong,BWAVE
+6018,2,9,251,150,True,False,Relegate,Zhaotiantong,Mini Nini
+5994,2,12,417,150,True,False,Relegate,Will,DM11
+5992,1,7,189,150,True,False,Relegate,Lee,Chan ' tcho
+5915,2,9,252,150,True,False,Relegate,Zhaotiantong,Ndrangheta'
+5856,2,14,486,150,True,False,Relegate,Lin,Chopstix
+5805,1,13,475,150,True,False,Relegate,Lin,Abreu
+5795,2,8,205,150,True,False,Relegate,Tasha,SparkFox
+5783,2,11,389,150,True,False,Relegate,Grat,BWAVE
+5772,2,6,115,150,True,True,Relegate,Will,SparkFox
+5617,1,6,127,150,True,False,Relegate,Tabitha,Nanao
+5560,2,11,341,150,True,False,Relegate,Penny,HoshiNoKoe13
+5506,1,14,506,150,True,False,Relegate,Brenner,TheMuffins
+5502,1,17,668,150,True,False,Relegate,Tabitha,BWAVE
+5466,1,10,329,150,True,False,Relegate,Tabitha,Nanao
+5463,2,17,667,150,True,False,Relegate,Forsythe,PhantomFullForce
+5401,2,13,482,150,True,False,Relegate,Will,Adnavacake
+5358,2,10,291,150,True,False,Relegate,Zhaotiantong,Nanao
+5356,2,15,462,150,True,False,Relegate,Will,Mike Zack
+5318,1,10,312,150,True,True,Relegate,Hawk,GM667_
+5309,2,13,438,150,True,False,Relegate,Tabitha,TheMuffins
+5285,2,11,361,150,True,False,Relegate,Isabella,Operation Mechstorm
+5283,2,12,398,150,True,False,Relegate,Forsythe,Chopstix
+5277,2,11,326,150,True,False,Relegate,Isabella,TheMuffins
+5224,1,8,205,150,True,False,Relegate,Tabitha,Tomus
+5202,2,9,229,150,True,False,Relegate,Brenner,TheMuffins
+5132,2,8,206,150,True,True,Relegate,Forsythe,PhantomFullForce
+5042,1,10,328,150,True,False,Relegate,Mira,Jonathan2357
+5030,1,13,423,150,True,False,Relegate,Tabitha,Mahizzle
+5003,1,17,673,150,True,False,Relegate,Grat,BWAVE
+4851,1,10,297,150,True,True,Relegate,Penny,Curiosity
+4795,1,14,471,150,True,False,Relegate,Hawk,Chopstix
+4784,2,9,232,150,True,True,Relegate,Tabitha,purifierwarmech
+4730,2,11,330,150,True,False,Relegate,Brenner,Barondoctor
+4617,2,11,352,150,True,False,Relegate,Zhaotiantong,Nanao
+4590,2,12,392,150,True,False,Relegate,Brenner,Mahizzle
+4586,1,9,287,150,True,False,Relegate,Tabitha,Hurricane_Slash
+4505,1,24,946,150,True,False,Relegate,Lin,Lordofcold
+4432,1,7,168,150,True,False,Relegate,Penny,FindMyNeotank
+4388,1,8,241,150,True,False,Relegate,Isabella,Napoleon
+4357,1,18,734,150,True,False,Relegate,Grat,不是icy
+4322,2,12,418,150,True,False,Relegate,Tabitha,Fluttyx
+4279,1,7,178,150,True,True,Relegate,Tabitha,Adept999
+4196,2,11,340,150,True,False,Relegate,Waylon,KaelDra27
+4162,2,11,332,150,True,False,Relegate,Penny,ePiiC PaNiiC
+4139,2,14,362,150,True,False,Relegate,Brenner,ReZurRekt843
+4133,2,12,400,150,True,False,Relegate,Penny,Rush_FTK
+4109,2,11,340,150,True,False,Relegate,Brenner,Barondoctor
+4095,2,12,398,150,True,False,Relegate,Will,JTQWN
+4064,1,12,416,150,True,True,Relegate,Tabitha,Mauwus
+3989,2,10,281,150,True,True,Relegate,Brenner,Raguna
+3826,2,12,389,150,True,False,Relegate,Brenner,Barondoctor
+3734,2,6,121,150,True,False,Relegate,Brenner,zielinskigr
+3693,1,13,456,150,True,False,Relegate,Will,Wellaran
+3592,2,10,307,150,True,False,Relegate,Forsythe,Frodoor
+3538,1,13,426,150,True,True,Relegate,Zhaotiantong,Spartacous
+3518,1,16,592,150,True,False,Relegate,Grat,Zerobillion
+3438,1,15,527,150,True,False,Relegate,Grat,Astady
+3414,2,15,639,150,True,False,Relegate,Forsythe,不是icy
+3401,2,12,424,150,True,False,Relegate,Will,Mauwus
+3394,2,9,251,150,True,False,Relegate,Hawk,NMX2
+3392,1,9,262,150,True,False,Relegate,Tabitha,Krolan
+3342,1,11,391,150,True,False,Relegate,Lin,Lordofcold
+3326,1,12,377,150,True,False,Relegate,Tabitha,Mauwus
+3317,1,13,488,150,True,False,Relegate,Tinker,LeLieuTenant
+3280,1,9,271,150,True,True,Relegate,Zhaotiantong,Krolan
+3279,2,12,399,150,True,False,Relegate,Forsythe,Lordofcold
+3245,2,14,525,150,True,False,Relegate,Penny,Anabella
+3209,2,13,438,150,True,False,Relegate,Hawk,Rush_FTK
+3176,1,10,337,150,True,False,Relegate,Penny,WiNLord
+3071,2,14,543,150,True,False,Relegate,Caulder,Rush_FTK
+3070,2,9,229,150,True,True,Relegate,Tabitha,Saiky27
+3051,2,14,561,150,True,False,Relegate,Will,SonjaTheSuperior11
+2885,1,9,265,150,True,False,Relegate,Hawk,Rush_FTK
+2853,2,6,114,150,True,False,Relegate,Lee,Monsters_vs_MyDad
+2842,2,12,372,150,True,False,Relegate,Brenner,LotLaPecera
+2829,2,9,248,150,True,True,Relegate,Caulder,Rush_FTK
+2594,1,10,306,150,True,False,Relegate,Isabella,史莱喵。
+2531,1,9,276,150,True,False,Relegate,Zhaotiantong,purifierwarmech
+2496,2,7,158,150,True,False,Relegate,Isabella,The Philanthropist
+2486,2,12,379,150,True,True,Relegate,Waylon,ePiiC PaNiiC
+2438,1,16,631,150,True,False,Relegate,Lee,BleakHorizon
+6408,2,28,789,225,True,False,Diagonal Dip,Will,Chopstix
+6342,2,12,317,225,True,True,Diagonal Dip,Lin,Chan ' tcho
+6341,1,11,293,225,True,False,Diagonal Dip,Lin,Heroes
+6295,2,10,240,225,True,False,Diagonal Dip,Caulder,CaioSantso
+6276,1,10,272,225,True,False,Diagonal Dip,Forsythe,Heroes
+6252,1,10,258,225,True,False,Diagonal Dip,Tabitha,Mini Nini
+6244,2,13,358,225,True,True,Diagonal Dip,Forsythe,zhaotiantong
+6229,1,17,499,225,True,False,Diagonal Dip,Lin,Heroes
+6031,1,13,411,225,True,False,Diagonal Dip,Penny,Sliicer
+5990,1,14,341,225,True,False,Diagonal Dip,Tabitha,Nanao
+5984,1,12,338,225,True,False,Diagonal Dip,Forsythe,BWAVE
+5947,1,16,489,225,True,False,Diagonal Dip,Gage,PhantomFullForce
+5919,1,11,278,225,True,False,Diagonal Dip,Brenner,Barondoctor
+5831,2,17,476,225,True,False,Diagonal Dip,Caulder,Chopstix
+6407,1,12,355,200,False,False,Armoured Showdown,Forsythe,Wrek
+6347,2,11,305,200,False,False,Armoured Showdown,Lin,Heroes
+6338,1,11,306,200,False,False,Armoured Showdown,Isabella,Mini Nini
+6292,2,15,454,200,False,False,Armoured Showdown,Lin,Heroes
+6280,2,15,509,200,False,False,Armoured Showdown,Brenner,PhantomFullForce
+6226,2,13,367,200,False,False,Armoured Showdown,Isabella,Mini Nini
+6038,2,21,692,200,False,False,Armoured Showdown,Lin,Ritmo
+6036,1,22,788,200,False,False,Armoured Showdown,Zhaotiantong,Mini Nini
+6027,1,10,270,200,False,False,Armoured Showdown,Forsythe,BWAVE
+6020,2,13,369,200,False,False,Armoured Showdown,Tinker,Mini Nini
+6004,1,12,342,200,False,False,Armoured Showdown,Hawk,Tee Lord
+5966,2,19,552,200,False,False,Armoured Showdown,Lin,Heroes
+5942,2,12,337,200,False,False,Armoured Showdown,Forsythe,PhantomFullForce
+5818,2,15,423,200,False,False,Armoured Showdown,Tabitha,Tee Lord
+5799,2,10,248,200,False,False,Armoured Showdown,Forsythe,Lordofcold
+5756,1,18,579,200,False,False,Armoured Showdown,Hawk,Chopstix
+6402,1,15,590,193,True,False,Valley of Despondence,Penny,DM11
+6356,1,17,610,193,True,False,Valley of Despondence,Lin,Heroes
+6350,2,7,142,193,True,True,Valley of Despondence,Isabella,BWAVE
+6287,2,16,582,193,True,False,Valley of Despondence,Caulder,Lordofcold
+6257,1,12,347,193,True,False,Valley of Despondence,Tabitha,Nanao
+6207,1,15,565,193,True,False,Valley of Despondence,Brenner,PhantomFullForce
+6194,2,15,468,193,True,False,Valley of Despondence,Lin,Heroes
+6192,2,16,562,193,True,True,Valley of Despondence,Isabella,SparkFox
+6173,2,14,542,193,True,False,Valley of Despondence,Tabitha,Rush_FTK
+6162,2,20,712,193,True,False,Valley of Despondence,Tabitha,Nanao
+6087,2,19,725,193,True,False,Valley of Despondence,Brenner,Barondoctor
+6054,1,13,454,193,True,False,Valley of Despondence,Brenner,DM11
+6012,1,14,478,193,True,False,Valley of Despondence,Brenner,ePiiC PaNiiC
+5997,2,10,277,193,True,False,Valley of Despondence,Brenner,Azohn
+5987,1,13,425,193,True,False,Valley of Despondence,Gage,Nanao
+5977,1,19,911,193,True,False,Valley of Despondence,Lin,Plague
+5946,1,12,385,193,True,False,Valley of Despondence,Forsythe,PhantomFullForce
+5656,2,12,390,193,True,False,Valley of Despondence,Forsythe,Mike Zack
+6394,2,16,450,227,False,False,Urban Bite,Hawk,Ndrangheta'
+6385,1,8,182,227,False,True,Urban Bite,Lin,Chopstix
+6270,2,16,479,227,False,False,Urban Bite,Lin,PhantomFullForce
+6268,2,16,478,227,False,False,Urban Bite,Lin,PhantomFullForce
+6254,1,22,718,227,False,False,Urban Bite,Lin,Nanao
+6197,1,6,116,227,False,True,Urban Bite,Lin,SSAO
+6187,1,15,457,227,False,False,Urban Bite,Penny,SparkFox
+6156,2,13,337,227,False,False,Urban Bite,Will,Getaway Driver
+6060,2,21,599,227,False,False,Urban Bite,Lin,Heroes
+6040,2,15,428,227,False,False,Urban Bite,Isabella,Ritmo
+5960,2,17,516,227,False,False,Urban Bite,Lin,Chopstix
+5922,2,13,359,227,False,False,Urban Bite,Lin,Wrek
+5821,2,14,403,227,False,False,Urban Bite,Hawk,Tee Lord
+5779,2,20,588,227,False,False,Urban Bite,Caulder,Lolom
+5758,1,16,500,227,False,False,Urban Bite,Brenner,Heroes
+5753,2,19,575,227,False,False,Urban Bite,Grat,SparkFox
+5707,1,14,426,227,False,False,Urban Bite,Brenner,Nonova
+6378,2,17,655,242,False,False,Fog Emblem,Mira,Mini Nini
+6363,1,13,463,242,False,False,Fog Emblem,Hawk,Chopstix
+6345,2,10,266,242,False,False,Fog Emblem,Lin,Heroes
+6278,1,11,360,242,False,True,Fog Emblem,Hawk,Chopstix
+6265,1,19,747,242,False,False,Fog Emblem,Tabitha,Wrek
+6171,2,20,785,242,False,False,Fog Emblem,Hawk,Ritmo
+6068,2,6,101,242,False,True,Fog Emblem,Lin,Airmaster
+6058,2,17,645,242,False,False,Fog Emblem,Hawk,Tee Lord
+6057,2,10,264,242,False,True,Fog Emblem,Brenner,Lolom
+6011,2,11,332,242,False,False,Fog Emblem,Caulder,PhantomFullForce
+5996,1,18,710,242,False,False,Fog Emblem,Tabitha,BWAVE
+5971,2,22,927,242,False,False,Fog Emblem,Lin,Plague
+5962,2,17,629,242,False,False,Fog Emblem,Brenner,SSAO
+5784,2,17,602,242,False,False,Fog Emblem,Brenner,Chopstix
+6372,1,17,542,121,False,False,Crazy Eight,Hawk,Ritmo
+6369,1,15,456,121,False,False,Crazy Eight,Forsythe,Ndrangheta'
+6354,1,19,632,121,False,False,Crazy Eight,Hawk,Mini Nini
+6333,2,12,296,121,False,False,Crazy Eight,Isabella,Mini Nini
+6300,1,14,404,121,False,False,Crazy Eight,Hawk,Chopstix
+6277,1,15,475,121,False,False,Crazy Eight,Lin,Abreu
+6175,2,11,277,121,False,True,Crazy Eight,Hawk,Ritmo
+6154,1,14,436,121,False,False,Crazy Eight,Tabitha,BWAVE
+6126,2,15,464,121,False,False,Crazy Eight,Will,Average__Joe
+6120,1,8,184,121,False,True,Crazy Eight,Lin,Kurau
+6067,1,13,371,121,False,False,Crazy Eight,Lin,Heroes
+6008,2,33,1115,121,False,False,Crazy Eight,Tinker,Chan ' tcho
+6005,2,21,693,121,False,False,Crazy Eight,Brenner,SSAO
+5945,2,16,486,121,False,False,Crazy Eight,Lin,Tayufa
+5930,1,13,393,121,False,False,Crazy Eight,Zhaotiantong,Mini Nini
+5778,2,15,439,121,False,False,Crazy Eight,Mira,Chan ' tcho
+5747,2,14,377,121,False,False,Crazy Eight,Brenner,Chopstix
+5745,1,16,484,121,False,False,Crazy Eight,Hawk,Chopstix
+5713,2,13,366,121,False,False,Crazy Eight,Brenner,HoshiNoKoe13
+5676,2,15,429,121,False,False,Crazy Eight,Hawk,Chopstix
+5665,2,8,152,121,False,True,Crazy Eight,Gage,Nanao
+5645,1,15,469,121,False,False,Crazy Eight,Forsythe,Ndrangheta'
+5553,2,21,684,121,False,False,Crazy Eight,Brenner,PhantomFullForce
+5530,1,8,186,121,False,True,Crazy Eight,Tabitha,chichote
+5519,2,11,261,121,False,False,Crazy Eight,Isabella,HoshiNoKoe13
+5470,1,18,537,121,False,False,Crazy Eight,Tabitha,BusterBeachside
+5408,2,18,534,121,False,False,Crazy Eight,Penny,CuntSlayer
+5380,2,11,296,121,False,False,Crazy Eight,Brenner,TheManCalledBen
+5359,1,21,703,121,False,False,Crazy Eight,Isabella,Lordofcold
+5246,2,20,643,121,False,False,Crazy Eight,Will,Airmaster
+5230,2,24,749,121,False,False,Crazy Eight,Lin,Lordofcold
+5186,1,13,368,121,False,False,Crazy Eight,Lin,Mike Zack
+5162,2,18,572,121,False,False,Crazy Eight,Forsythe,PhantomFullForce
+5159,2,22,610,121,False,False,Crazy Eight,Lin,GM667_
+5136,1,9,235,121,False,False,Crazy Eight,Brenner,Mahizzle
+5014,2,23,788,121,False,False,Crazy Eight,Isabella,Red-One
+4994,1,12,352,121,False,False,Crazy Eight,Tabitha,EBSY
+4933,1,38,1568,121,False,True,Crazy Eight,Brenner,Red-One
+4919,1,18,510,121,False,False,Crazy Eight,Tabitha,Nanao
+4890,1,10,271,121,False,False,Crazy Eight,Forsythe,Lordofcold
+4769,2,10,239,121,False,True,Crazy Eight,Hawk,Tee Lord
+4743,1,20,668,121,False,False,Crazy Eight,Brenner,chichote
+4731,1,13,395,121,False,False,Crazy Eight,Brenner,Ghancc
+4713,1,27,949,121,False,False,Crazy Eight,Will,MicrOvven
+4670,1,13,389,121,False,False,Crazy Eight,Brenner,SSAO
+4664,1,14,396,121,False,True,Crazy Eight,Will,PhantomFullForce
+4578,1,20,730,121,False,False,Crazy Eight,Will,Average__Joe
+4543,2,8,161,121,False,True,Crazy Eight,(No CO),IDSSleeperAgent
+4537,1,18,525,121,False,False,Crazy Eight,Hawk,Tee Lord
+4529,1,12,321,121,False,False,Crazy Eight,Tabitha,Nanao
+4490,2,11,287,121,False,True,Crazy Eight,Caulder,Darq
+4431,2,14,424,121,False,False,Crazy Eight,Tabitha,overlordto12
+4420,1,15,445,121,False,False,Crazy Eight,Lin,magicalpuffin
+4342,1,6,112,121,False,True,Crazy Eight,Gage,Migreo
+4340,1,16,486,121,False,False,Crazy Eight,Lin,Geko
+4303,1,27,905,121,False,False,Crazy Eight,Tabitha,Tee Lord
+4285,1,14,422,121,False,False,Crazy Eight,Grat,Divva
+4262,1,17,520,121,False,False,Crazy Eight,Caulder,Curiosity
+4244,2,15,471,121,False,False,Crazy Eight,Forsythe,Brandon_Burgh
+4234,1,13,379,121,False,False,Crazy Eight,Brenner,PhantomFullForce
+4203,1,6,115,121,False,True,Crazy Eight,Will,BusterBeachside
+4134,2,14,413,121,False,False,Crazy Eight,Zhaotiantong,Antihero
+4073,1,15,452,121,False,False,Crazy Eight,Penny,Divva
+4061,2,18,549,121,False,False,Crazy Eight,Caulder,Lordofcold
+3994,1,6,97,121,False,True,Crazy Eight,Will,ReZurRekt843
+3936,1,12,347,121,False,False,Crazy Eight,Caulder,Wellaran
+3784,1,14,374,121,False,False,Crazy Eight,Tabitha,BusterBeachside
+3602,2,17,525,121,False,False,Crazy Eight,Brenner,PhantomFullForce
+3593,2,21,718,121,False,False,Crazy Eight,Zhaotiantong,FindMyNeotank
+3590,1,15,461,121,False,False,Crazy Eight,Tabitha,Antihero
+3545,1,16,521,121,False,False,Crazy Eight,Tabitha,Antihero
+3469,2,25,744,121,False,False,Crazy Eight,Tabitha,NeroZonbolt
+3444,1,16,492,121,False,False,Crazy Eight,Penny,zielinskigr
+3430,2,27,883,121,False,False,Crazy Eight,Penny,Ace737
+3396,2,15,448,121,False,False,Crazy Eight,Zhaotiantong,Antihero
+3383,2,24,846,121,False,False,Crazy Eight,Grat,Nuclear Rat
+3356,1,15,486,121,False,False,Crazy Eight,Tabitha,TheManCalledBen
+3349,1,23,815,121,False,False,Crazy Eight,Lin,Chan ' tcho
+3331,2,15,444,121,False,False,Crazy Eight,Penny,Arckos
+3241,2,14,421,121,False,False,Crazy Eight,Isabella,Sora
+3220,2,13,358,121,False,False,Crazy Eight,Will,Akubjay
+3177,2,14,408,121,False,False,Crazy Eight,Lin,Darqspeaker
+3140,1,13,390,121,False,True,Crazy Eight,Penny,Sliicer
+3081,1,16,547,121,False,False,Crazy Eight,Zhaotiantong,Mini Nini
+3057,1,13,386,121,False,False,Crazy Eight,Isabella,Rush_FTK
+3053,2,35,1393,121,False,False,Crazy Eight,Caulder,Maleous
+2970,1,18,538,121,False,False,Crazy Eight,Caulder,Avalon
+2953,1,10,266,121,False,True,Crazy Eight,Tabitha,LotLaPecera
+2889,2,14,397,121,False,True,Crazy Eight,Forsythe,Frost_Lantern
+2887,2,25,774,121,False,False,Crazy Eight,Grat,Avalon
+2832,1,20,622,121,False,False,Crazy Eight,Lin,_5C_
+2762,1,10,267,121,False,False,Crazy Eight,Forsythe,Mini Nini
+2633,2,15,453,121,False,False,Crazy Eight,Forsythe,Mini Nini
+2582,1,16,517,121,False,False,Crazy Eight,Penny,Sliicer
+2491,1,19,579,121,False,False,Crazy Eight,Lin,Lordofcold
+2452,1,10,283,121,False,False,Crazy Eight,Lin,BusterBeachside
+6370,2,20,583,231,False,False,Mini Mix,Brenner,Ritmo
+6365,1,8,166,231,False,True,Mini Mix,Tinker,Jonathan2357
+6348,1,18,476,231,False,False,Mini Mix,Caulder,Draco
+6279,1,13,349,231,False,False,Mini Mix,Lee,Mini Nini
+6184,2,20,582,231,False,False,Mini Mix,Isabella,Chopstix
+6109,1,10,240,231,False,True,Mini Mix,Lee,Mini Nini
+6083,2,12,305,231,False,False,Mini Mix,Brenner,Ritmo
+6074,1,8,181,231,False,True,Mini Mix,Isabella,Airmaster
+6069,1,18,484,231,False,False,Mini Mix,Penny,OlstaSmash
+6056,2,11,272,231,False,False,Mini Mix,Lin,Heroes
+6053,2,8,177,231,False,False,Mini Mix,Tabitha,Nanao
+6043,2,13,329,231,False,False,Mini Mix,Forsythe,Ritmo
+6003,1,15,399,231,False,False,Mini Mix,Tabitha,BWAVE
+5995,2,16,409,231,False,False,Mini Mix,Will,Ndrangheta'
+5986,2,12,309,231,False,False,Mini Mix,Lin,Getaway Driver
+5838,2,17,450,231,False,False,Mini Mix,Brenner,Chopstix
+5776,1,20,586,231,False,False,Mini Mix,Hawk,Tee Lord
+5763,2,11,255,231,False,False,Mini Mix,Lee,Nonova
+5725,2,12,288,231,False,False,Mini Mix,Hawk,Chopstix
+5700,2,17,449,231,False,False,Mini Mix,Hawk,Chopstix
+6353,0,19,898,24,True,False,Caustic Finale,,
+6351,1,11,393,24,True,False,Caustic Finale,Penny,Nanao
+6327,2,22,957,24,True,False,Caustic Finale,Hawk,Getaway Driver
+6238,2,29,1189,24,True,False,Caustic Finale,Lin,Nanao
+6203,2,18,725,24,True,False,Caustic Finale,Will,Lordofcold
+6080,1,10,378,24,True,False,Caustic Finale,Forsythe,BWAVE
+6079,2,16,643,24,True,False,Caustic Finale,Will,Lordofcold
+6047,1,11,405,24,True,False,Caustic Finale,Greyfield,Chopstix
+6025,2,20,841,24,True,False,Caustic Finale,Brenner,SSAO
+6017,1,12,483,24,True,False,Caustic Finale,Penny,Plague
+5975,2,14,590,24,True,False,Caustic Finale,Tabitha,BWAVE
+5950,2,22,1033,24,True,False,Caustic Finale,Forsythe,Ndrangheta'
+5925,2,14,505,24,True,False,Caustic Finale,Isabella,Nanao
+5857,1,15,599,24,True,False,Caustic Finale,Caulder,Draco
+5773,2,24,943,24,True,False,Caustic Finale,Will,Chopstix
+5722,1,13,522,24,True,False,Caustic Finale,Hawk,Mike Zack
+5696,1,13,559,24,True,False,Caustic Finale,Brenner,PhantomFullForce
+6325,2,17,538,132,True,False,Tiboose,Lin,Heroes
+6304,2,15,516,132,True,False,Tiboose,Brenner,Getaway Driver
+6282,2,14,471,132,True,False,Tiboose,Brenner,Ndrangheta'
+6210,2,7,138,132,True,True,Tiboose,Brenner,BWAVE
+6190,1,21,683,132,True,False,Tiboose,Lin,Heroes
+6107,1,14,438,132,True,False,Tiboose,Waylon,Heroes
+6081,2,19,697,132,True,False,Tiboose,Forsythe,Barondoctor
+6066,2,16,552,132,True,False,Tiboose,Brenner,Chopstix
+6063,2,8,155,132,True,True,Tiboose,Tabitha,Lolom
+6021,2,15,541,132,True,False,Tiboose,Brenner,Azohn
+5956,1,11,366,132,True,False,Tiboose,Hawk,Chopstix
+5954,1,15,498,132,True,False,Tiboose,Tabitha,SparkFox
+5939,2,12,352,132,True,False,Tiboose,Brenner,ePiiC PaNiiC
+5860,2,15,508,132,True,False,Tiboose,Isabella,Heroes
+5803,1,20,666,132,True,False,Tiboose,Penny,Heroes
+5751,2,22,796,132,True,False,Tiboose,Hawk,Chopstix
+5718,1,23,926,132,True,False,Tiboose,Tinker,Ndrangheta'
+5704,2,12,379,132,True,False,Tiboose,Lin,Chopstix
+5682,1,13,417,132,True,False,Tiboose,Tabitha,BWAVE
+5663,2,12,384,132,True,True,Tiboose,Isabella,TheMuffins
+5650,2,13,416,132,True,False,Tiboose,Penny,Sliicer
+5602,1,11,348,132,True,False,Tiboose,Brenner,Chopstix
+5587,2,19,770,132,True,False,Tiboose,Lin,TheMuffins
+5569,1,14,470,132,True,False,Tiboose,Grat,Chopstix
+5564,2,19,675,132,True,False,Tiboose,Will,SparkFox
+5515,1,9,250,132,True,False,Tiboose,Brenner,PhantomFullForce
+5493,2,20,694,132,True,False,Tiboose,Waylon,Draco
+5478,2,16,515,132,True,False,Tiboose,Lin,ePiiC PaNiiC
+5455,1,24,891,132,True,False,Tiboose,Forsythe,Mike Zack
+5450,1,10,287,132,True,False,Tiboose,Lin,Plague
+5433,1,19,707,132,True,False,Tiboose,Tabitha,BWAVE
+5407,2,17,639,132,True,True,Tiboose,Brenner,SSAO
+5400,2,14,472,132,True,True,Tiboose,Hawk,Deremius
+5194,2,13,419,132,True,False,Tiboose,Tabitha,PawnPusher
+5192,1,12,373,132,True,False,Tiboose,Tabitha,Chopstix
+5172,2,13,398,132,True,False,Tiboose,Brenner,TheMuffins
+5150,1,16,638,132,True,False,Tiboose,Penny,Tomus
+5127,1,17,633,132,True,False,Tiboose,Waylon,PhantomFullForce
+5106,1,26,952,132,True,False,Tiboose,Brenner,GM667_
+5066,2,12,360,132,True,False,Tiboose,Mira,BWAVE
+5002,2,11,281,132,True,False,Tiboose,Grat,Nanao
+5000,2,24,875,132,True,False,Tiboose,Tabitha,chichote
+4839,1,12,410,132,True,False,Tiboose,Will,sarastro
+4789,2,16,600,132,True,False,Tiboose,Penny,DC290
+4689,2,22,870,132,True,False,Tiboose,Penny,BusterBeachside
+4680,2,11,313,132,True,False,Tiboose,Lin,Plague
+4653,1,16,582,132,True,False,Tiboose,Tinker,ePiiC PaNiiC
+4576,1,9,237,132,True,False,Tiboose,Zhaotiantong,JTQWN
+4559,1,14,522,132,True,False,Tiboose,Greyfield,xaltt
+4488,1,11,331,132,True,False,Tiboose,Grat,JTQWN
+4480,2,11,341,132,True,False,Tiboose,Will,King Arthur
+4412,1,13,441,132,True,False,Tiboose,Forsythe,JTQWN
+4410,1,14,481,132,True,True,Tiboose,Tabitha,Profeta7
+4396,2,16,644,132,True,False,Tiboose,Forsythe,Mauwus
+4372,2,16,570,132,True,False,Tiboose,Lee,TMQs
+4334,1,19,719,132,True,False,Tiboose,Grat,joebrooklyn39
+4330,2,11,320,132,True,False,Tiboose,Forsythe,Deremius
+4296,2,13,444,132,True,False,Tiboose,Hawk,PawnPusher
+4282,2,9,199,132,True,True,Tiboose,Will,Saiky27
+4249,1,15,567,132,True,True,Tiboose,Will,Deejus
+4229,0,16,542,132,True,False,Tiboose,,
+4218,2,10,267,132,True,False,Tiboose,Zhaotiantong,Penny!
+4213,2,8,174,132,True,False,Tiboose,Zhaotiantong,thermaldyn
+4071,2,8,171,132,True,True,Tiboose,Forsythe,Pistolaceo
+4067,2,6,103,132,True,True,Tiboose,Hawk,Xyros
+4056,2,12,349,132,True,True,Tiboose,Grat,Raguna
+4048,2,13,439,132,True,False,Tiboose,Will,thermaldyn
+4042,1,15,523,132,True,False,Tiboose,Will,King Arthur
+3942,2,16,593,132,True,False,Tiboose,Isabella,twan
+3927,2,19,760,132,True,False,Tiboose,Penny,joebrooklyn39
+3913,1,7,153,132,True,False,Tiboose,Mira,thermaldyn
+3887,1,10,258,132,True,True,Tiboose,Penny,Comcap
+3872,1,9,225,132,True,True,Tiboose,Tabitha,BeansChabier
+3856,1,29,1275,132,True,False,Tiboose,Grat,Geko
+3836,2,8,179,132,True,True,Tiboose,Will,TMQs
+3810,1,28,967,132,True,False,Tiboose,Tasha,Spartacous
+3804,1,14,472,132,True,False,Tiboose,Isabella,DM11
+3790,1,13,423,132,True,False,Tiboose,Will,King Arthur
+3692,2,10,294,132,True,False,Tiboose,Will,PhantomFullForce
+3653,1,17,718,132,True,False,Tiboose,Forsythe,Mauwus
+3616,1,10,306,132,True,False,Tiboose,Penny,King Arthur
+3514,2,11,319,132,True,False,Tiboose,Forsythe,Frodoor
+3436,2,17,554,132,True,False,Tiboose,Tabitha,DaGinga
+3416,2,14,472,132,True,True,Tiboose,Forsythe,Mauwus
+3381,2,10,286,132,True,False,Tiboose,Penny,Zerobillion
+3369,2,15,528,132,True,False,Tiboose,Isabella,Tayufa
+3363,2,15,465,132,True,False,Tiboose,Penny,Sliicer
+3360,1,10,284,132,True,False,Tiboose,Will,Gombel
+3324,2,8,179,132,True,True,Tiboose,Lee,Adept999
+3308,2,15,556,132,True,False,Tiboose,Tinker,CommanderLuciel
+3288,1,21,813,132,True,False,Tiboose,Tabitha,Zerobillion
+3269,1,16,586,132,True,False,Tiboose,Lee,Zerobillion
+3184,1,11,311,132,True,False,Tiboose,Tabitha,Nuclear Rat
+3089,2,17,574,132,True,True,Tiboose,Penny,Saiky27
+3068,1,14,540,132,True,False,Tiboose,Isabella,RayKadoodles
+3005,2,24,801,132,True,False,Tiboose,Will,Fukuda
+2854,2,14,430,132,True,False,Tiboose,Isabella,AdvanceWarrior
+2811,2,18,614,132,True,False,Tiboose,Brenner,_5C_
+2716,1,14,481,132,True,False,Tiboose,Forsythe,The Philanthropist
+2667,2,25,981,132,True,False,Tiboose,Caulder,Pauan
+2644,2,14,448,132,True,False,Tiboose,Tinker,CommanderLuciel
+2544,2,11,330,132,True,False,Tiboose,Hawk,Maleous
+2501,2,14,488,132,True,False,Tiboose,Tabitha,LenWan
+2408,2,8,176,132,True,False,Tiboose,Waylon,Doppelganger
+6321,2,16,612,270,False,False,Chroma Verde,Brenner,Ritmo
+6286,1,23,978,270,False,False,Chroma Verde,Tabitha,Tee Lord
+6234,1,18,765,270,False,True,Chroma Verde,Brenner,Barondoctor
+6230,2,16,676,270,False,False,Chroma Verde,Hawk,Ndrangheta'
+6200,2,15,567,270,False,False,Chroma Verde,Tabitha,Jonathan2357
+6177,1,12,417,270,False,True,Chroma Verde,Waylon,Draco
+6166,1,13,488,270,False,False,Chroma Verde,Caulder,Chopstix
+6137,2,20,862,270,False,False,Chroma Verde,Forsythe,magicalpuffin
+6106,2,22,939,270,False,False,Chroma Verde,Lin,Heroes
+6099,1,19,845,270,False,False,Chroma Verde,Penny,Sliicer
+6014,2,16,594,270,False,False,Chroma Verde,Tabitha,Nanao
+5976,1,15,643,270,False,False,Chroma Verde,Tabitha,Tee Lord
+5972,2,18,752,270,False,False,Chroma Verde,Zhaotiantong,Mini Nini
+5964,1,33,1514,270,False,False,Chroma Verde,Brenner,Lolom
+5887,1,18,705,270,False,False,Chroma Verde,Forsythe,TheMuffins
+5827,1,12,421,270,False,False,Chroma Verde,Tabitha,Chopstix
+5764,2,15,567,270,False,False,Chroma Verde,Penny,Sliicer
+5710,2,13,436,270,False,False,Chroma Verde,Hawk,Chopstix
+6243,2,23,853,18,False,True,Shadow Raid,Lin,Frodoor
+6224,2,22,792,18,False,False,Shadow Raid,Caulder,Mini Nini
+6183,2,23,783,18,False,False,Shadow Raid,Lin,Lordofcold
+6178,2,6,102,18,False,True,Shadow Raid,Lee,SparkFox
+6157,1,10,254,18,False,True,Shadow Raid,Lin,Heroes
+6155,1,27,881,18,False,False,Shadow Raid,Forsythe,Deremius
+6032,1,12,344,18,False,False,Shadow Raid,Forsythe,Airmaster
+6009,1,40,1340,18,False,False,Shadow Raid,Tinker,Mike Zack
+5885,2,20,625,18,False,False,Shadow Raid,Brenner,Ritmo
+5820,2,18,531,18,False,False,Shadow Raid,Hawk,Tee Lord
+5787,2,18,579,18,False,False,Shadow Raid,Penny,Chan ' tcho
+5782,1,15,447,18,False,False,Shadow Raid,Brenner,Heroes
+5780,1,21,705,18,False,True,Shadow Raid,Waylon,Draco
+5755,1,14,425,18,False,False,Shadow Raid,Lee,Ritmo
+5748,1,24,796,18,False,False,Shadow Raid,Zhaotiantong,CuntSlayer
+5708,1,20,631,18,False,False,Shadow Raid,Gage,Tee Lord
+5620,1,16,537,18,False,True,Shadow Raid,Brenner,TheManCalledBen
+5541,1,29,981,18,False,False,Shadow Raid,Will,Plague
+5386,2,18,568,18,False,False,Shadow Raid,Lin,Mike Zack
+5352,2,13,383,18,False,False,Shadow Raid,Forsythe,Lordofcold
+5338,2,18,585,18,False,False,Shadow Raid,Tabitha,Tee Lord
+5301,1,29,977,18,False,False,Shadow Raid,Forsythe,SparkFox
+5299,1,12,294,18,False,False,Shadow Raid,Greyfield,GM667_
+5238,1,17,506,18,False,False,Shadow Raid,Isabella,Mahizzle
+5225,2,14,436,18,False,False,Shadow Raid,Penny,Jonathan2357
+5214,2,18,600,18,False,False,Shadow Raid,Lin,Mike Zack
+5130,2,23,781,18,False,False,Shadow Raid,Lin,Ghancc
+4987,1,16,497,18,False,False,Shadow Raid,Isabella,Lordofcold
+4977,1,22,707,18,False,False,Shadow Raid,Tabitha,Nanao
+4925,2,25,823,18,False,False,Shadow Raid,Tabitha,SSAO
+4916,2,22,840,18,False,False,Shadow Raid,Gage,Average__Joe
+4905,1,19,651,18,False,False,Shadow Raid,Caulder,CuntSlayer
+4885,2,39,1396,18,False,False,Shadow Raid,Lin,Ghancc
+4883,1,16,503,18,False,False,Shadow Raid,Isabella,Curiosity
+4880,2,33,1181,18,False,False,Shadow Raid,Will,Deremius
+4855,1,8,183,18,False,True,Shadow Raid,Brenner,rmac
+4834,1,30,1299,18,False,False,Shadow Raid,Tabitha,Mahizzle
+4791,1,31,1104,18,False,False,Shadow Raid,Tabitha,Pit89
+4756,1,6,123,18,False,True,Shadow Raid,Caulder,Arckos
+4742,2,10,246,18,False,True,Shadow Raid,Gage,Abreu
+4727,2,17,544,18,False,False,Shadow Raid,Penny,Sliicer
+4700,2,15,460,18,False,False,Shadow Raid,Lin,Feda
+4688,2,22,748,18,False,False,Shadow Raid,Hawk,Tee Lord
+4641,1,28,986,18,False,False,Shadow Raid,Lin,Hurricane_Slash
+4639,2,8,168,18,False,False,Shadow Raid,Brenner,GM667_
+4610,2,24,826,18,False,False,Shadow Raid,Tabitha,Nanao
+4594,2,12,334,18,False,False,Shadow Raid,Caulder,MicrOvven
+4581,2,23,782,18,False,False,Shadow Raid,Lin,Lordofcold
+4548,1,16,507,18,False,False,Shadow Raid,Gage,Red-One
+4501,1,35,1322,18,False,False,Shadow Raid,Caulder,Average__Joe
+4486,2,17,506,18,False,False,Shadow Raid,Lin,!try!
+4452,2,17,517,18,False,False,Shadow Raid,Gage,Tee Lord
+4409,1,14,435,18,False,False,Shadow Raid,Forsythe,PhantomFullForce
+4362,2,22,745,18,False,True,Shadow Raid,Brenner,PhantomFullForce
+4002,1,22,774,18,False,False,Shadow Raid,Caulder,Antihero
+3954,2,6,102,18,False,True,Shadow Raid,Will,Chan ' tcho
+3928,1,18,621,18,False,False,Shadow Raid,Penny,Sliicer
+3859,2,15,453,18,False,True,Shadow Raid,Forsythe,SparkFox
+3819,2,17,533,18,False,False,Shadow Raid,Will,Lordofcold
+3779,1,15,485,18,False,False,Shadow Raid,Zhaotiantong,FindMyNeotank
+3547,1,17,599,18,False,False,Shadow Raid,Isabella,Antihero
+3536,2,14,406,18,False,False,Shadow Raid,Grat,Nuclear Rat
+3532,2,16,499,18,False,False,Shadow Raid,Gage,Antihero
+3519,1,15,483,18,False,False,Shadow Raid,Brenner,Lordofcold
+3493,2,13,348,18,False,False,Shadow Raid,Greyfield,Spartacous
+3471,2,16,480,18,False,False,Shadow Raid,Isabella,TheManCalledBen
+3423,2,15,425,18,False,False,Shadow Raid,Tasha,Chan ' tcho
+3404,2,22,612,18,False,False,Shadow Raid,Will,Noxmare
+3285,2,11,292,18,False,False,Shadow Raid,Tabitha,Gombel
+3240,2,16,506,18,False,False,Shadow Raid,Caulder,BusterBeachside
+3230,2,25,814,18,False,False,Shadow Raid,Forsythe,LotLaPecera
+3175,1,13,419,18,False,False,Shadow Raid,Isabella,TheManCalledBen
+2896,2,19,587,18,False,False,Shadow Raid,Isabella,RayKadoodles
+2865,1,11,310,18,False,False,Shadow Raid,Brenner,Maleous
+2798,2,15,433,18,False,False,Shadow Raid,Lee,CommanderLuciel
+2731,2,16,536,18,False,False,Shadow Raid,Isabella,Rush_FTK
+2707,1,14,411,18,False,True,Shadow Raid,Grat,Avalon
+2695,1,15,440,18,False,False,Shadow Raid,Forsythe,Avalon
+2612,2,14,375,18,False,False,Shadow Raid,Hawk,Lordofcold
+2573,1,21,724,18,False,False,Shadow Raid,Lin,Lordofcold
+2481,1,12,343,18,False,False,Shadow Raid,Zhaotiantong,Mini Nini
+6143,1,12,381,152,False,True,Oasis,Waylon,HoshiNoKoe13
+5981,1,23,992,152,False,False,Oasis,Tabitha,Ritmo
+5934,2,14,530,152,False,True,Oasis,Forsythe,Ndrangheta'
+5895,1,6,119,152,False,True,Oasis,Tabitha,PhantomFullForce
+5833,2,43,2082,152,False,False,Oasis,Zhaotiantong,Nanao
+5765,2,17,684,152,False,False,Oasis,Forsythe,Ritmo
+5726,2,17,756,152,False,False,Oasis,Penny,Average__Joe
+5709,2,21,836,152,False,False,Oasis,Hawk,Mike Zack
+5467,2,14,536,152,False,False,Oasis,Forsythe,PhantomFullForce
+5410,2,15,414,152,False,False,Oasis,Caulder,Chopstix
+5399,2,10,281,152,False,True,Oasis,Brenner,Airmaster
+5331,2,22,956,152,False,False,Oasis,Brenner,IDSSleeperAgent
+5319,2,14,466,152,False,False,Oasis,Tabitha,Tee Lord
+5300,2,19,836,152,False,False,Oasis,Tabitha,Ndrangheta'
+5275,2,15,573,152,False,False,Oasis,Brenner,Lordofcold
+5223,1,16,672,152,False,False,Oasis,Isabella,Airmaster
+5204,1,15,630,152,False,False,Oasis,Waylon,Tayufa
+5176,1,21,986,152,False,False,Oasis,Tasha,Jonathan2357
+5088,1,14,533,152,False,False,Oasis,Brenner,BusterBeachside
+5061,1,18,785,152,False,False,Oasis,Forsythe,Tomus
+5049,2,22,1017,152,False,False,Oasis,Brenner,BWAVE
+5048,2,19,817,152,False,False,Oasis,Forsythe,Mahizzle
+5046,2,23,993,152,False,False,Oasis,Waylon,LeLieuTenant
+5009,2,23,1117,152,False,False,Oasis,Brenner,SSAO
+4976,2,26,1291,152,False,False,Oasis,Penny,Mahizzle
+4942,1,12,416,152,False,False,Oasis,Tabitha,Hurricane_Slash
+4928,2,16,662,152,False,False,Oasis,Isabella,Feda
+4911,2,17,741,152,False,False,Oasis,Brenner,Barondoctor
+4888,2,20,867,152,False,False,Oasis,Brenner,Ghancc
+4879,1,19,938,152,False,False,Oasis,Lin,Darq
+4857,1,11,346,152,False,True,Oasis,Forsythe,MihoNishizumi
+4848,2,18,764,152,False,True,Oasis,Mira,Ghancc
+4821,1,17,741,152,False,False,Oasis,Lin,Geko
+4800,1,20,929,152,False,False,Oasis,Caulder,PhantomFullForce
+4774,1,14,583,152,False,False,Oasis,Caulder,Average__Joe
+4768,2,14,504,152,False,True,Oasis,Hawk,Chan ' tcho
+4646,1,22,963,152,False,False,Oasis,Gage,Chan ' tcho
+4622,2,18,818,152,False,False,Oasis,Hawk,Tee Lord
+4593,1,6,117,152,False,True,Oasis,Forsythe,ReZurRekt843
+4539,1,25,1216,152,False,False,Oasis,Tabitha,Tee Lord
+4532,2,21,1012,152,False,False,Oasis,Grat,Villefort
+4515,2,21,977,152,False,True,Oasis,Lin,Darqspeaker
+4463,1,15,614,152,False,False,Oasis,Forsythe,Lordofcold
+4457,1,27,1388,152,False,True,Oasis,Forsythe,PhantomFullForce
+4442,1,31,1419,152,False,False,Oasis,Tabitha,GM667_
+4415,2,20,921,152,False,False,Oasis,Hawk,Deremius
+4102,1,14,534,152,False,True,Oasis,Isabella,Antihero
+4063,1,16,665,152,False,True,Oasis,Penny,Darq
+3939,2,24,1194,152,False,False,Oasis,Penny,Average__Joe
+3788,2,9,214,152,False,True,Oasis,Forsythe,Forgotten Marshal
+3770,2,15,576,152,False,False,Oasis,Forsythe,PhantomFullForce
+3725,2,14,535,152,False,False,Oasis,Isabella,Average__Joe
+3646,2,16,640,152,False,False,Oasis,Will,BusterBeachside
+3633,1,18,803,152,False,False,Oasis,Lin,Darq
+3477,1,24,1140,152,False,False,Oasis,Penny,FindMyNeotank
+3439,1,17,739,152,False,False,Oasis,Mira,Zerobillion
+3386,1,21,1001,152,False,False,Oasis,Penny,Arckos
+3352,1,6,117,152,False,True,Oasis,Isabella,Antihero
+3246,1,9,233,152,False,True,Oasis,Waylon,twan
+3158,1,19,895,152,False,False,Oasis,Penny,Sliicer
+3036,1,11,362,152,False,False,Oasis,Isabella,CommanderLuciel
+2959,2,47,2572,152,False,False,Oasis,Lin,Plague
+2745,2,19,834,152,False,False,Oasis,Brenner,Sir Biggles
+2725,2,23,1151,152,False,False,Oasis,Hawk,Rush_FTK
+2703,1,28,1536,152,False,False,Oasis,Caulder,Rush_FTK
+2700,2,24,1154,152,False,False,Oasis,Brenner,Lordofcold
+2630,1,21,975,152,False,False,Oasis,Mira,Maleous
+2625,2,16,662,152,False,False,Oasis,Tabitha,Maleous
+2497,1,14,505,152,False,False,Oasis,Brenner,Maleous
+6128,2,15,592,80,True,True,The Wave,Zhaotiantong,Mike Zack
+6094,1,13,463,80,True,True,The Wave,Tabitha,TMQs
+5847,2,14,529,80,True,False,The Wave,Brenner,PhantomFullForce
+5723,2,27,1214,80,True,False,The Wave,Penny,Nanao
+5697,2,10,249,80,True,False,The Wave,Lin,Plague
+5610,1,22,991,80,True,False,The Wave,Brenner,Chopstix
+5598,1,6,117,80,True,True,The Wave,Zhaotiantong,Lolom
+5575,2,17,726,80,True,False,The Wave,Caulder,Ndrangheta'
+5542,1,13,502,80,True,False,The Wave,Penny,BusterBeachside
+5389,1,15,624,80,True,False,The Wave,Brenner,TMQs
+5322,1,14,557,80,True,True,The Wave,Hawk,Pit89
+5242,1,21,1047,80,True,False,The Wave,Brenner,TheMuffins
+5233,1,6,118,80,True,False,The Wave,Will,Plague
+5221,2,15,610,80,True,False,The Wave,Brenner,PhantomFullForce
+5212,2,12,412,80,True,False,The Wave,Hawk,ePiiC PaNiiC
+5196,2,13,425,80,True,False,The Wave,Brenner,GM667_
+5102,1,12,401,80,True,False,The Wave,Tabitha,Nanao
+5099,2,30,1459,80,True,False,The Wave,Brenner,Jonsey
+5005,1,15,607,80,True,False,The Wave,Waylon,Tomus
+4920,2,25,1274,80,True,False,The Wave,Waylon,Plague
+4882,2,25,1196,80,True,False,The Wave,Will,Hurricane_Slash
+4862,2,19,817,80,True,False,The Wave,Will,King Arthur
+4761,1,10,312,80,True,False,The Wave,Tasha,Raguna
+4746,1,14,526,80,True,False,The Wave,Penny,Nanao
+4678,1,7,157,80,True,True,The Wave,Caulder,TheManCalledBen
+4677,1,6,121,80,True,True,The Wave,Brenner,Operation Mechstorm
+4668,1,22,956,80,True,True,The Wave,Lin,Private_J
+4640,2,11,374,80,True,False,The Wave,Tabitha,DC290
+4630,2,14,519,80,True,False,The Wave,Waylon,Zerobillion
+4629,1,19,820,80,True,False,The Wave,Tabitha,Hurricane_Slash
+4577,1,14,559,80,True,False,The Wave,Will,DM11
+4572,1,13,513,80,True,False,The Wave,Brenner,sarastro
+4553,2,19,756,80,True,False,The Wave,Hawk,Chopstix
+4479,1,15,668,80,True,False,The Wave,Isabella,Mini Nini
+4469,2,13,444,80,True,False,The Wave,Hawk,JTQWN
+4465,2,18,776,80,True,False,The Wave,Forsythe,JTQWN
+4387,1,18,827,80,True,False,The Wave,Tasha,PawnPusher
+4376,2,13,421,80,True,True,The Wave,Lin,GM667_
+4347,1,11,371,80,True,True,The Wave,Tabitha,LuarSoleil
+4324,2,11,313,80,True,True,The Wave,Forsythe,Barondoctor
+4302,1,24,1484,80,True,False,The Wave,Waylon,wolf_71
+4297,2,10,289,80,True,False,The Wave,Brenner,Mauwus
+4280,1,13,445,80,True,False,The Wave,Tabitha,purifierwarmech
+4197,2,17,666,80,True,False,The Wave,Will,Geko
+4188,2,14,517,80,True,False,The Wave,Hawk,Deremius
+4154,2,9,225,80,True,False,The Wave,Penny,bigou
+4107,1,15,639,80,True,False,The Wave,Tasha,King Arthur
+4078,1,20,900,80,True,False,The Wave,Forsythe,PhantomFullForce
+4057,1,13,514,80,True,False,The Wave,Lee,DM11
+4032,2,18,767,80,True,False,The Wave,Grat,DM11
+4004,2,12,388,80,True,False,The Wave,Lee,DM11
+4003,2,7,141,80,True,True,The Wave,Tabitha,NMX2
+3993,2,8,179,80,True,True,The Wave,Lin,Ivashanko
+3903,1,9,262,80,True,False,The Wave,Tabitha,Profeta7
+3713,1,14,559,80,True,False,The Wave,Lee,DM11
+3700,2,13,451,80,True,False,The Wave,Tabitha,Divva
+3660,2,14,489,80,True,False,The Wave,Penny,joebrooklyn39
+3578,2,11,345,80,True,False,The Wave,Penny,sarastro
+3560,2,9,236,80,True,False,The Wave,Tabitha,DM11
+3548,2,18,875,80,True,False,The Wave,Tasha,Mauwus
+3539,1,13,442,80,True,True,The Wave,Zhaotiantong,Airmaster
+3511,1,16,628,80,True,False,The Wave,Waylon,Divva
+3478,1,22,998,80,True,False,The Wave,Penny,Venusaur03
+3463,1,12,444,80,True,False,The Wave,Brenner,Maleous
+3441,1,10,291,80,True,False,The Wave,Tabitha,不是icy
+3440,2,14,451,80,True,False,The Wave,Lin,Frodoor
+3409,1,17,625,80,True,True,The Wave,Penny,不是icy
+3408,1,16,598,80,True,False,The Wave,Brenner,DaGinga
+3359,2,21,893,80,True,True,The Wave,Will,Boxabullets
+3232,2,26,1248,80,True,False,The Wave,Brenner,twan
+3150,2,7,136,80,True,True,The Wave,Penny,Deejus
+3119,1,19,821,80,True,False,The Wave,Lin,Sliicer
+2989,1,15,541,80,True,True,The Wave,Tabitha,ePiiC PaNiiC
+2951,2,13,440,80,True,True,The Wave,Tabitha,LotLaPecera
+2948,1,14,542,80,True,True,The Wave,Zhaotiantong,Monsters_vs_MyDad
+2929,2,6,105,80,True,True,The Wave,Isabella,Frost_Lantern
+2897,2,16,622,80,True,False,The Wave,Will,Maleous
+2883,1,13,470,80,True,True,The Wave,Forsythe,LotLaPecera
+2823,1,18,810,80,True,False,The Wave,Tinker,SonjaTheSuperior11
+2786,1,12,416,80,True,False,The Wave,Isabella,ePiiC PaNiiC
+2748,1,21,1123,80,True,False,The Wave,Will,sarastro
+2734,2,17,705,80,True,False,The Wave,Forsythe,The Philanthropist
+2675,2,20,884,80,True,False,The Wave,Forsythe,cjlim2007
+2670,2,18,743,80,True,False,The Wave,Brenner,SonjaTheSuperior11
+2511,2,12,357,80,True,True,The Wave,Forsythe,xrumblingcdsx
+6101,1,26,1423,186,False,True,Settles as Still Water,Brenner,Heroes
+6090,1,28,1652,186,False,False,Settles as Still Water,Lin,Plague
+6000,1,16,716,186,False,True,Settles as Still Water,Hawk,Chopstix
+5839,2,24,1307,186,False,False,Settles as Still Water,Greyfield,Plague
+5792,2,25,1304,186,False,False,Settles as Still Water,Hawk,Tee Lord
+5788,2,19,919,186,False,False,Settles as Still Water,Mira,Ritmo
+5648,1,21,1110,186,False,True,Settles as Still Water,Mira,BWAVE
+5646,2,7,149,186,False,True,Settles as Still Water,Brenner,BWAVE
+5540,1,11,366,186,False,True,Settles as Still Water,Lin,HoshiNoKoe13
+5528,1,12,452,186,False,True,Settles as Still Water,Tabitha,Ndrangheta'
+5497,2,28,1525,186,False,False,Settles as Still Water,Caulder,IDSSleeperAgent
+5483,2,24,1288,186,False,False,Settles as Still Water,Mira,Ritmo
+5395,1,11,379,186,False,True,Settles as Still Water,Will,Chan ' tcho
+5391,1,20,954,186,False,False,Settles as Still Water,Brenner,Barondoctor
+5373,2,18,799,186,False,True,Settles as Still Water,Brenner,chichote
+5339,1,18,875,186,False,False,Settles as Still Water,Lin,Lordofcold
+5276,1,19,742,186,False,True,Settles as Still Water,Tabitha,Nanao
+5261,2,16,724,186,False,False,Settles as Still Water,Hawk,Tee Lord
+5252,1,24,1045,186,False,False,Settles as Still Water,Will,Heroes
+5245,2,25,1418,186,False,False,Settles as Still Water,Brenner,Lammle
+5244,1,19,962,186,False,False,Settles as Still Water,Isabella,BWAVE
+5201,2,19,936,186,False,False,Settles as Still Water,Lin,Lordofcold
+5189,2,16,591,186,False,False,Settles as Still Water,Tabitha,Nanao
+5169,2,17,775,186,False,False,Settles as Still Water,Will,Adnavacake
+5129,2,20,1030,186,False,False,Settles as Still Water,Brenner,Ghancc
+5031,2,20,1015,186,False,False,Settles as Still Water,Mira,Ghancc
+4971,1,19,975,186,False,False,Settles as Still Water,Grat,Feda
+4938,1,25,1415,186,False,False,Settles as Still Water,Greyfield,Pistolaceo
+4935,1,27,1529,186,False,False,Settles as Still Water,Gage,Red-One
+4918,2,16,677,186,False,True,Settles as Still Water,Tabitha,King Arthur
+4850,1,25,1323,186,False,False,Settles as Still Water,Brenner,Nonova
+4804,2,20,968,186,False,False,Settles as Still Water,Will,Feda
+4762,2,6,110,186,False,True,Settles as Still Water,Brenner,Aidan
+4733,1,13,508,186,False,False,Settles as Still Water,Brenner,Tee Lord
+4723,1,26,1546,186,False,False,Settles as Still Water,Mira,Tayufa
+4719,1,16,664,186,False,False,Settles as Still Water,Tabitha,Nanao
+4711,2,15,661,186,False,False,Settles as Still Water,Isabella,zielinskigr
+4704,2,25,1402,186,False,True,Settles as Still Water,Gage,Red-One
+4659,2,27,1474,186,False,False,Settles as Still Water,Caulder,MihoNishizumi
+4656,2,14,533,186,False,False,Settles as Still Water,Hawk,Nanao
+4624,1,25,1413,186,False,False,Settles as Still Water,Grat,Villefort
+4603,2,6,115,186,False,True,Settles as Still Water,Penny,joebrooklyn39
+4600,2,18,776,186,False,False,Settles as Still Water,Tabitha,TheManCalledBen
+4597,1,14,610,186,False,True,Settles as Still Water,Brenner,Tee Lord
+4566,1,18,955,186,False,False,Settles as Still Water,Caulder,Average__Joe
+4517,1,19,1014,186,False,False,Settles as Still Water,Isabella,Brandon_Burgh
+4509,1,23,1215,186,False,False,Settles as Still Water,Tabitha,Tee Lord
+4471,2,18,814,186,False,True,Settles as Still Water,Lin,Lordofcold
+4455,2,26,1365,186,False,False,Settles as Still Water,Lin,zielinskigr
+4380,2,18,828,186,False,False,Settles as Still Water,Tabitha,Zerobillion
+4281,1,19,933,186,False,False,Settles as Still Water,Tabitha,Tee Lord
+4238,2,6,114,186,False,True,Settles as Still Water,Mira,TMQs
+4179,1,15,706,186,False,False,Settles as Still Water,Brenner,Aidan
+4160,2,16,701,186,False,True,Settles as Still Water,Brenner,PhantomFullForce
+4044,2,19,873,186,False,False,Settles as Still Water,Brenner,Barondoctor
+3943,2,24,1232,186,False,False,Settles as Still Water,Lee,d_def
+3896,1,9,255,186,False,True,Settles as Still Water,Lin,Pop Tart
+3892,2,12,404,186,False,True,Settles as Still Water,Waylon,Venusaur03
+3781,1,12,458,186,False,True,Settles as Still Water,Gage,Geko
+3627,2,14,513,186,False,True,Settles as Still Water,Brenner,SparkFox
+3553,2,7,153,186,False,True,Settles as Still Water,Tinker,Chan ' tcho
+3520,2,17,676,186,False,False,Settles as Still Water,Penny,Zerobillion
+3495,1,17,821,186,False,False,Settles as Still Water,Lin,Lordofcold
+3490,2,14,550,186,False,False,Settles as Still Water,Lin,Lordofcold
+3371,2,24,1333,186,False,False,Settles as Still Water,Forsythe,Maleous
+3366,1,23,1191,186,False,False,Settles as Still Water,Forsythe,Lordofcold
+6035,1,21,1060,108,True,False,Coast Assault,Brenner,DM11
+5894,1,6,126,108,True,True,Coast Assault,Lin,SparkFox
+5825,2,8,193,108,True,False,Coast Assault,Penny,Ndrangheta'
+5759,2,6,110,108,True,True,Coast Assault,Will,Chan ' tcho
+5622,1,20,779,108,True,False,Coast Assault,Tabitha,Nanao
+5606,1,27,1157,108,True,False,Coast Assault,Lin,Barondoctor
+5544,2,12,364,108,True,False,Coast Assault,Grat,HoshiNoKoe13
+5452,1,30,1319,108,True,False,Coast Assault,Forsythe,Tayufa
+5443,1,13,499,108,True,False,Coast Assault,Lin,Feda
+5313,2,19,800,108,True,False,Coast Assault,Isabella,SparkFox
+5257,1,19,702,108,True,False,Coast Assault,Gage,Draco
+5256,2,16,598,108,True,False,Coast Assault,Will,Lordofcold
+5217,2,12,381,108,True,False,Coast Assault,Penny,Jonsey
+5190,1,12,382,108,True,False,Coast Assault,Will,sarastro
+5124,1,22,935,108,True,False,Coast Assault,Lin,ePiiC PaNiiC
+5103,1,14,471,108,True,False,Coast Assault,Forsythe,Shrcker
+5098,1,20,879,108,True,False,Coast Assault,Brenner,Nanao
+5078,2,17,710,108,True,False,Coast Assault,Penny,BusterBeachside
+5043,2,20,725,108,True,False,Coast Assault,Zhaotiantong,GM667_
+4996,2,16,569,108,True,False,Coast Assault,Brenner,Nanao
+4978,2,10,252,108,True,True,Coast Assault,Hawk,Chopstix
+4914,2,20,919,108,True,False,Coast Assault,Lin,不是icy
+4822,1,28,1211,108,True,False,Coast Assault,Hawk,ePiiC PaNiiC
+4781,1,20,797,108,True,False,Coast Assault,Forsythe,PhantomFullForce
+4759,2,15,460,108,True,True,Coast Assault,Penny,Nanao
+4682,1,17,633,108,True,False,Coast Assault,Caulder,Nanao
+4648,1,10,297,108,True,True,Coast Assault,Will,TMQs
+4611,1,13,455,108,True,False,Coast Assault,Lin,Mahizzle
+4606,2,12,359,108,True,True,Coast Assault,Tabitha,ReZurRekt843
+4569,1,15,551,108,True,False,Coast Assault,Hawk,Chopstix
+4556,1,11,322,108,True,False,Coast Assault,Zhaotiantong,JTQWN
+4551,1,7,171,108,True,False,Coast Assault,Zhaotiantong,JTQWN
+4450,2,14,473,108,True,False,Coast Assault,Will,Plague
+4436,2,20,827,108,True,False,Coast Assault,Penny,FindMyNeotank
+4411,2,6,107,108,True,True,Coast Assault,Forsythe,JTQWN
+4350,2,10,278,108,True,True,Coast Assault,Penny,Curiosity
+4333,1,18,723,108,True,True,Coast Assault,Tabitha,Penny!
+4327,1,13,449,108,True,False,Coast Assault,Zhaotiantong,Penny!
+4325,1,16,630,108,True,False,Coast Assault,Penny,BusterBeachside
+4307,1,18,628,108,True,False,Coast Assault,Isabella,Fluttyx
+4274,1,14,491,108,True,False,Coast Assault,Tabitha,Zerobillion
+4248,1,14,535,108,True,False,Coast Assault,Penny,FindMyNeotank
+4246,2,8,187,108,True,False,Coast Assault,Penny,ePiiC PaNiiC
+4219,2,12,382,108,True,True,Coast Assault,Tabitha,NMX2
+4216,2,15,548,108,True,False,Coast Assault,Tabitha,NMX2
+4175,1,13,456,108,True,False,Coast Assault,Brenner,DM11
+4147,2,14,429,108,True,True,Coast Assault,Grat,Nuclear Rat
+4116,2,15,564,108,True,False,Coast Assault,Brenner,Profeta7
+4104,2,21,1011,108,True,False,Coast Assault,Tabitha,FindMyNeotank
+4033,0,16,674,108,True,False,Coast Assault,,
+4013,2,9,221,108,True,True,Coast Assault,Gage,Comcap
+3968,2,22,1009,108,True,False,Coast Assault,Zhaotiantong,FindMyNeotank
+3966,1,26,1235,108,True,False,Coast Assault,Brenner,FindMyNeotank
+3949,2,10,272,108,True,True,Coast Assault,Tinker,Airmaster
+3878,2,22,1006,108,True,False,Coast Assault,Brenner,Mauwus
+3839,2,15,569,108,True,True,Coast Assault,Zhaotiantong,FindMyNeotank
+3825,2,8,188,108,True,True,Coast Assault,Brenner,King Arthur
+3800,2,16,611,108,True,False,Coast Assault,Forsythe,DM11
+3789,2,7,138,108,True,False,Coast Assault,Tabitha,ePiiC PaNiiC
+3760,2,11,309,108,True,False,Coast Assault,Grat,twan
+3696,1,13,498,108,True,False,Coast Assault,Mira,Wellaran
+3614,1,14,540,108,True,False,Coast Assault,Brenner,Deejus
+3472,1,14,472,108,True,False,Coast Assault,Tabitha,Deejus
+3427,2,10,271,108,True,False,Coast Assault,Mira,Krolan
+3406,1,16,670,108,True,False,Coast Assault,Mira,Zerobillion
+3373,1,15,580,108,True,False,Coast Assault,Lee,Rush_FTK
+3365,1,15,587,108,True,True,Coast Assault,Gage,overlordto12
+3327,1,12,431,108,True,False,Coast Assault,Caulder,Zerobillion
+3311,1,16,609,108,True,False,Coast Assault,Hawk,JustABadGuy
+3310,2,6,107,108,True,True,Coast Assault,Penny,DaGinga
+3180,1,15,550,108,True,False,Coast Assault,Zhaotiantong,Krolan
+3153,1,27,1334,108,True,False,Coast Assault,Caulder,CommanderLuciel
+3088,2,22,999,108,True,False,Coast Assault,Mira,Rush_FTK
+2971,2,13,437,108,True,False,Coast Assault,Penny,不是icy
+2952,1,15,558,108,True,True,Coast Assault,Zhaotiantong,Monsters_vs_MyDad
+2912,1,15,540,108,True,False,Coast Assault,Tabitha,Aimline
+2881,2,11,333,108,True,False,Coast Assault,Hawk,Frodoor
+2871,1,11,374,108,True,False,Coast Assault,Isabella,Fluhfie
+2784,2,14,481,108,True,False,Coast Assault,Caulder,Frodoor
+2767,2,13,442,108,True,False,Coast Assault,Brenner,Sir Biggles
+2766,1,18,736,108,True,False,Coast Assault,Caulder,Rush_FTK
+2739,2,10,274,108,True,False,Coast Assault,Zhaotiantong,Monsters_vs_MyDad
+2650,2,13,428,108,True,False,Coast Assault,Lin,Chan ' tcho
+2647,1,20,790,108,True,False,Coast Assault,Brenner,Alex
+2556,1,20,828,108,True,False,Coast Assault,Lin,ePiiC PaNiiC
+2530,2,18,698,108,True,False,Coast Assault,Tabitha,ePiiC PaNiiC
+2529,2,16,614,108,True,False,Coast Assault,Brenner,Maleous
+2477,1,13,464,108,True,False,Coast Assault,Forsythe,CommanderLuciel
+2472,1,11,326,108,True,True,Coast Assault,Caulder,ePiiC PaNiiC
+2468,2,17,644,108,True,False,Coast Assault,Caulder,ePiiC PaNiiC
+2442,1,12,396,108,True,False,Coast Assault,Brenner,N0o2
+2414,1,10,278,108,True,True,Coast Assault,Tasha,N0o2
+2373,2,17,684,108,True,False,Coast Assault,Isabella,Fluhfie
+2307,1,14,524,108,True,False,Coast Assault,Tabitha,不是icy
+2084,1,13,489,108,True,False,Coast Assault,Tabitha,不是icy
+6002,2,15,508,62,False,False,Requiem,Forsythe,Ritmo
+5900,2,28,1198,62,False,False,Requiem,Penny,Ndrangheta'
+5714,2,16,517,62,False,False,Requiem,Brenner,Ritmo
+5698,2,14,438,62,False,False,Requiem,Hawk,Nonova
+5653,1,19,642,62,False,False,Requiem,Hawk,Tee Lord
+5628,1,14,456,62,False,True,Requiem,Tabitha,BWAVE
+5612,1,7,150,62,False,True,Requiem,Gage,PhantomFullForce
+5555,1,18,582,62,False,False,Requiem,Caulder,CuntSlayer
+5545,2,11,221,62,False,True,Requiem,Tasha,garbage
+5484,2,20,717,62,False,False,Requiem,Tabitha,BWAVE
+5469,2,9,211,62,False,True,Requiem,Lin,Mike Zack
+5378,1,47,1975,62,False,False,Requiem,Grat,SparkFox
+5315,2,18,624,62,False,False,Requiem,Forsythe,Lordofcold
+5249,2,15,510,62,False,False,Requiem,Lin,Mike Zack
+5195,2,17,573,62,False,False,Requiem,Brenner,Mahizzle
+5158,1,15,518,62,False,False,Requiem,Brenner,Dyslexic Lizard
+5147,1,9,224,62,False,False,Requiem,Brenner,Airmaster
+5116,2,21,705,62,False,False,Requiem,Tabitha,BusterBeachside
+5086,2,21,737,62,False,False,Requiem,Brenner,Dyslexic Lizard
+5033,2,19,639,62,False,False,Requiem,Caulder,CuntSlayer
+5017,2,19,659,62,False,False,Requiem,Tabitha,EBSY
+5004,1,25,929,62,False,False,Requiem,Penny,Feda
+4943,1,19,677,62,False,False,Requiem,Will,Red-One
+4940,1,19,740,62,False,False,Requiem,Forsythe,Deremius
+4915,2,24,924,62,False,False,Requiem,Brenner,Ghancc
+4910,2,17,580,62,False,False,Requiem,Tabitha,Mahizzle
+4847,2,15,469,62,False,True,Requiem,Tabitha,Ghancc
+4714,1,16,566,62,False,False,Requiem,Penny,MicrOvven
+4681,2,12,331,62,False,False,Requiem,Tabitha,Nanao
+4676,1,13,424,62,False,True,Requiem,Tabitha,LuarSoleil
+4665,2,15,493,62,False,True,Requiem,Caulder,Whealy
+4643,2,10,251,62,False,False,Requiem,Caulder,TheManCalledBen
+4620,1,16,547,62,False,False,Requiem,Tabitha,Divva
+4614,2,18,653,62,False,False,Requiem,Brenner,Aidan
+4602,2,24,861,62,False,False,Requiem,Greyfield,xaltt
+4585,2,13,393,62,False,True,Requiem,Tabitha,Darq
+4542,2,9,210,62,False,True,Requiem,Isabella,Moot
+4491,1,19,670,62,False,True,Requiem,Isabella,rmac
+4482,1,6,115,62,False,True,Requiem,Waylon,RayKadoodles
+4476,2,11,296,62,False,True,Requiem,Caulder,zielinskigr
+4440,1,11,307,62,False,True,Requiem,Tabitha,Tee Lord
+4408,2,12,329,62,False,True,Requiem,Forsythe,Mewtwo
+4367,1,21,828,62,False,False,Requiem,Penny,Sliicer
+4140,1,21,838,62,False,False,Requiem,Caulder,Tayufa
+4114,2,17,588,62,False,False,Requiem,Tasha,Average__Joe
+4100,1,15,519,62,False,False,Requiem,Will,joebrooklyn39
+4021,1,18,624,62,False,False,Requiem,Isabella,Nuclear Rat
+4006,1,15,517,62,False,False,Requiem,Caulder,Frodoor
+3938,2,25,974,62,False,False,Requiem,Tabitha,Nuclear Rat
+3919,2,10,251,62,False,True,Requiem,Brenner,Whealy
+3908,1,9,226,62,False,True,Requiem,Tinker,FindMyNeotank
+3895,1,19,676,62,False,False,Requiem,Penny,DC290
+3889,2,6,102,62,False,True,Requiem,Isabella,Deremius
+3885,2,8,167,62,False,True,Requiem,Lin,Lordofcold
+3837,2,7,132,62,False,True,Requiem,Gage,TMQs
+3767,1,19,783,62,False,False,Requiem,Tabitha,Aidan
+3766,2,12,323,62,False,False,Requiem,Will,Akubjay
+3707,2,30,1289,62,False,False,Requiem,Brenner,Darqspeaker
+3635,2,21,836,62,False,False,Requiem,Penny,不是icy
+3489,1,10,270,62,False,False,Requiem,Will,Divva
+3354,1,7,149,62,False,True,Requiem,Grat,fuzzygenie
+3335,1,15,531,62,False,False,Requiem,Brenner,Tee Lord
+3274,1,12,361,62,False,False,Requiem,Forsythe,Akubjay
+3272,2,11,300,62,False,False,Requiem,Tasha,Tayufa
+3252,1,28,1231,62,False,False,Requiem,Brenner,Rush_FTK
+3210,2,7,60,62,False,True,Requiem,Tabitha,KaelDra27
+3169,2,17,548,62,False,False,Requiem,Caulder,Maleous
+3056,1,20,715,62,False,False,Requiem,Forsythe,Akubjay
+3028,2,19,628,62,False,False,Requiem,Greyfield,Cheshirecat
+3015,2,17,609,62,False,False,Requiem,Penny,Sliicer
+3001,2,16,573,62,False,False,Requiem,Hawk,Rush_FTK
+2992,2,18,577,62,False,False,Requiem,Forsythe,Lordofcold
+2935,1,18,699,62,False,False,Requiem,Forsythe,Maleous
+2845,1,23,873,62,False,False,Requiem,Lin,Lordofcold
+2824,1,19,734,62,False,False,Requiem,Hawk,Rush_FTK
+2774,1,14,451,62,False,False,Requiem,Caulder,Mini Nini
+2733,1,17,597,62,False,False,Requiem,Lin,Akubjay
+2697,2,17,566,62,False,False,Requiem,Lee,CommanderLuciel
+2646,1,24,851,62,False,False,Requiem,Penny,Chan ' tcho
+2583,1,7,148,62,False,True,Requiem,Lin,Super Vlad
+2561,1,15,508,62,False,False,Requiem,Forsythe,Maleous
+2526,2,17,628,62,False,False,Requiem,Forsythe,Maleous
+2418,2,18,629,62,False,False,Requiem,Tasha,N0o2
+2415,1,17,609,62,False,False,Requiem,Lin,Lordofcold
+2301,2,21,804,62,False,False,Requiem,Tabitha,BleakHorizon
+2237,2,19,676,62,False,True,Requiem,Lin,Super Vlad
+2228,2,15,474,62,False,True,Requiem,Caulder,Mini Nini
+2199,2,8,183,62,False,False,Requiem,Caulder,Mini Nini
+2108,2,20,694,62,False,False,Requiem,Caulder,Rush_FTK
+5983,1,19,1008,172,False,True,Second Heaven,Forsythe,PhantomFullForce
+5829,1,27,1247,172,False,False,Second Heaven,Hawk,Tee Lord
+5630,1,20,959,172,False,False,Second Heaven,Lin,Plague
+5578,1,15,550,172,False,False,Second Heaven,Hawk,CuntSlayer
+5527,2,15,608,172,False,False,Second Heaven,Mira,BWAVE
+5504,2,20,898,172,False,False,Second Heaven,Tabitha,SparkFox
+5431,2,18,719,172,False,False,Second Heaven,Penny,HoshiNoKoe13
+5424,1,30,1772,172,False,False,Second Heaven,Hawk,Average__Joe
+5397,2,19,802,172,False,False,Second Heaven,Brenner,Adnavacake
+5387,2,23,1162,172,False,False,Second Heaven,Lin,Ndrangheta'
+5369,2,17,637,172,False,True,Second Heaven,Greyfield,Draco
+5320,2,33,1837,172,False,False,Second Heaven,Tabitha,Abreu
+5302,2,18,682,172,False,False,Second Heaven,Lin,Nanao
+5298,1,18,791,172,False,False,Second Heaven,Greyfield,Nonova
+5291,2,21,1051,172,False,False,Second Heaven,Will,Hurricane_Slash
+5253,2,10,282,172,False,False,Second Heaven,Brenner,SSAO
+5181,1,13,471,172,False,True,Second Heaven,Waylon,Barondoctor
+5174,1,22,1125,172,False,False,Second Heaven,Mira,TheManCalledBen
+5145,2,17,728,172,False,False,Second Heaven,Brenner,SSAO
+5107,1,28,1285,172,False,False,Second Heaven,Tabitha,Mahizzle
+4974,1,22,1089,172,False,False,Second Heaven,Will,Tayufa
+4926,2,23,1015,172,False,False,Second Heaven,Greyfield,Ghancc
+4913,1,18,761,172,False,False,Second Heaven,(No CO),Mahizzle
+4853,1,14,596,172,False,True,Second Heaven,Lin,BusterBeachside
+4843,2,22,969,172,False,False,Second Heaven,Lin,Lordofcold
+4782,2,23,1052,172,False,False,Second Heaven,Hawk,Feda
+4777,1,24,1178,172,False,False,Second Heaven,Gage,Red-One
+4690,2,15,527,172,False,False,Second Heaven,Tabitha,Tee Lord
+4655,1,9,263,172,False,True,Second Heaven,Tinker,Curiosity
+4638,1,25,1331,172,False,False,Second Heaven,Caulder,zielinskigr
+4632,1,18,760,172,False,False,Second Heaven,Tabitha,Nanao
+4621,2,15,617,172,False,False,Second Heaven,Caulder,TheManCalledBen
+4605,2,19,822,172,False,False,Second Heaven,Isabella,LeLieuTenant
+4558,2,38,1864,172,False,False,Second Heaven,Penny,Zerobillion
+4458,1,43,2341,172,False,False,Second Heaven,Zhaotiantong,FindMyNeotank
+4414,2,14,525,172,False,True,Second Heaven,Isabella,Sora
+4413,2,7,164,172,False,True,Second Heaven,Zhaotiantong,EBSY
+4392,2,21,917,172,False,False,Second Heaven,Lee,joebrooklyn39
+4304,2,25,1330,172,False,False,Second Heaven,Isabella,Average__Joe
+4236,1,16,670,172,False,False,Second Heaven,Isabella,Antihero
+4178,2,28,1580,172,False,False,Second Heaven,Lin,PhantomFullForce
+4174,2,18,757,172,False,False,Second Heaven,Caulder,Darq
+3884,2,16,649,172,False,True,Second Heaven,Brenner,zielinskigr
+3879,2,25,1248,172,False,False,Second Heaven,Lin,PhantomFullForce
+3843,2,18,755,172,False,True,Second Heaven,Gage,levelport
+3829,1,22,1079,172,False,False,Second Heaven,Isabella,TheManCalledBen
+3814,2,12,357,172,False,False,Second Heaven,Penny,joebrooklyn39
+3787,1,9,309,172,False,True,Second Heaven,Waylon,Shmoequey
+3785,1,17,732,172,False,False,Second Heaven,Lin,zielinskigr
+3679,1,21,993,172,False,False,Second Heaven,Hawk,Wellaran
+3630,2,9,235,172,False,True,Second Heaven,Brenner,NeroZonbolt
+3449,1,21,1051,172,False,False,Second Heaven,Greyfield,overlordto12
+5958,2,21,1138,134,False,False,Simple Finale,Isabella,TheManCalledBen
+5899,2,7,140,134,False,True,Simple Finale,Isabella,Airmaster
+5861,2,14,628,134,False,False,Simple Finale,Brenner,PhantomFullForce
+5836,2,16,759,134,False,False,Simple Finale,Will,PhantomFullForce
+5802,2,17,759,134,False,False,Simple Finale,Hawk,Ndrangheta'
+5770,2,25,1396,134,False,False,Simple Finale,Mira,Barondoctor
+5735,1,15,617,134,False,False,Simple Finale,Hawk,Ritmo
+5593,2,9,247,134,False,True,Simple Finale,Brenner,Nonova
+5537,1,8,212,134,False,True,Simple Finale,Will,Heroes
+5518,2,17,848,134,False,False,Simple Finale,Will,Lordofcold
+5499,1,20,987,134,False,False,Simple Finale,Tabitha,Nanao
+5432,1,11,384,134,False,True,Simple Finale,Brenner,SparkFox
+5421,1,6,124,134,False,True,Simple Finale,Penny,HoshiNoKoe13
+5409,1,13,556,134,False,False,Simple Finale,Will,PhantomFullForce
+5406,1,28,1781,134,False,False,Simple Finale,Brenner,IDSSleeperAgent
+5273,1,15,701,134,False,False,Simple Finale,Lin,Mike Zack
+5255,1,22,1293,134,False,False,Simple Finale,Brenner,SSAO
+5251,1,13,543,134,False,False,Simple Finale,Mira,BWAVE
+5218,2,6,96,134,False,False,Simple Finale,Caulder,Lordofcold
+5206,1,13,475,134,False,False,Simple Finale,Lin,Mike Zack
+5165,2,16,763,134,False,False,Simple Finale,Lin,Ndrangheta'
+5105,1,21,1116,134,False,False,Simple Finale,Will,RayKadoodles
+5070,1,18,950,134,False,True,Simple Finale,Tabitha,Darq
+5035,1,17,673,134,False,False,Simple Finale,Mira,Ghancc
+5029,1,8,219,134,False,True,Simple Finale,Will,Feda
+5007,2,12,436,134,False,False,Simple Finale,Lin,Abreu
+4991,1,19,943,134,False,False,Simple Finale,Lee,Ghancc
+4939,1,17,854,134,False,False,Simple Finale,Tabitha,SparkFox
+4907,1,11,431,134,False,False,Simple Finale,Lee,Ghancc
+4873,2,17,744,134,False,False,Simple Finale,Caulder,Feda
+4858,1,8,205,134,False,True,Simple Finale,Penny,Darq
+4854,1,11,406,134,False,True,Simple Finale,Brenner,PhantomFullForce
+4846,2,9,256,134,False,True,Simple Finale,Penny,MicrOvven
+4812,1,20,1055,134,False,False,Simple Finale,Brenner,Feda
+4766,1,15,699,134,False,False,Simple Finale,Isabella,Feda
+4757,1,13,547,134,False,True,Simple Finale,Penny,MihoNishizumi
+4749,1,8,211,134,False,True,Simple Finale,Brenner,Ghancc
+4669,1,12,499,134,False,False,Simple Finale,Caulder,Average__Joe
+4625,1,25,1259,134,False,False,Simple Finale,Greyfield,Chan ' tcho
+4582,1,15,719,134,False,False,Simple Finale,Lin,Geko
+4502,2,12,436,134,False,False,Simple Finale,Brenner,Aidan
+4444,1,21,1086,134,False,False,Simple Finale,Lin,Lordofcold
+4437,2,7,145,134,False,True,Simple Finale,Caulder,TheManCalledBen
+4407,2,10,313,134,False,True,Simple Finale,Tabitha,LuarSoleil
+4391,1,17,783,134,False,False,Simple Finale,Tabitha,Tee Lord
+4266,2,17,827,134,False,False,Simple Finale,Tabitha,Villefort
+4255,1,13,560,134,False,True,Simple Finale,Grat,Brandon_Burgh
+4194,1,27,1717,134,False,False,Simple Finale,Tabitha,Darqspeaker
+4171,1,22,1092,134,False,False,Simple Finale,Waylon,Pistolaceo
+4164,2,10,305,134,False,False,Simple Finale,Zhaotiantong,Mini Nini
+4084,2,13,522,134,False,False,Simple Finale,Tabitha,Villefort
+4034,1,17,803,134,False,False,Simple Finale,Hawk,King Arthur
+3940,1,11,424,134,False,False,Simple Finale,Tabitha,Tee Lord
+3931,1,8,218,134,False,True,Simple Finale,Tabitha,BusterBeachside
+3902,2,19,1028,134,False,False,Simple Finale,Tabitha,Average__Joe
+3801,1,12,463,134,False,True,Simple Finale,Tabitha,Darqspeaker
+3774,2,7,147,134,False,True,Simple Finale,Lin,Hummus King
+3720,1,18,920,134,False,False,Simple Finale,Isabella,Average__Joe
+3694,1,26,1553,134,False,False,Simple Finale,Isabella,Geko
+3641,1,13,552,134,False,False,Simple Finale,Tabitha,Chan ' tcho
+3583,2,12,418,134,False,False,Simple Finale,Forsythe,Spartacous
+3574,2,6,105,134,False,True,Simple Finale,Penny,不是icy
+3494,1,16,574,134,False,False,Simple Finale,Tinker,KaelDra27
+3465,1,16,832,134,False,False,Simple Finale,Lee,Antihero
+3395,1,12,481,134,False,False,Simple Finale,Tabitha,Darqspeaker
+3145,2,28,1586,134,False,False,Simple Finale,Will,Lordofcold
+2930,2,12,429,134,False,False,Simple Finale,Will,badbadbad
+2900,2,16,793,134,False,False,Simple Finale,Hawk,CommanderLuciel
+2812,1,12,448,134,False,False,Simple Finale,Waylon,LotLaPecera
+2777,1,7,159,134,False,True,Simple Finale,Zhaotiantong,G47Rush
+2720,1,12,504,134,False,False,Simple Finale,Brenner,Sir Biggles
+2706,2,6,105,134,False,True,Simple Finale,Tabitha,BusterBeachside
+2696,2,28,1717,134,False,False,Simple Finale,Penny,Rush_FTK
+2664,2,22,1191,134,False,False,Simple Finale,Hawk,Mini Nini
+2658,2,12,451,134,False,False,Simple Finale,Mira,Rush_FTK
+2545,2,17,834,134,False,False,Simple Finale,Hawk,Maleous
+2508,1,9,266,134,False,False,Simple Finale,Tasha,N0o2
+2482,2,14,638,134,False,False,Simple Finale,Penny,Sliicer
+2480,2,15,563,134,False,False,Simple Finale,Caulder,su. 
+2467,1,18,879,134,False,False,Simple Finale,Lin,Lordofcold
+5944,2,37,1744,106,True,True,Tactical Bombing,Zhaotiantong,Nanao
+5877,2,17,654,106,True,False,Tactical Bombing,Tabitha,HoshiNoKoe13
+5875,2,13,470,106,True,True,Tactical Bombing,Penny,BusterBeachside
+5813,2,22,976,106,True,False,Tactical Bombing,Waylon,Barondoctor
+5678,2,14,551,106,True,False,Tactical Bombing,Forsythe,PhantomFullForce
+5666,2,7,139,106,True,True,Tactical Bombing,Hawk,TheManCalledBen
+5639,1,12,401,106,True,False,Tactical Bombing,Brenner,Abreu
+5597,1,11,336,106,True,True,Tactical Bombing,Will,Heroes
+5582,1,16,629,106,True,False,Tactical Bombing,Isabella,Lolom
+5532,2,21,918,106,True,False,Tactical Bombing,Tabitha,Ndrangheta'
+5529,1,12,409,106,True,False,Tactical Bombing,Tabitha,BWAVE
+5445,1,13,379,106,True,False,Tactical Bombing,Isabella,Mike Zack
+5393,2,15,502,106,True,False,Tactical Bombing,Hawk,Chopstix
+5297,2,16,516,106,True,False,Tactical Bombing,Lin,Mike Zack
+5289,2,18,702,106,True,False,Tactical Bombing,Waylon,Draco
+5240,1,11,315,106,True,False,Tactical Bombing,Brenner,Mahizzle
+5239,1,12,394,106,True,False,Tactical Bombing,Grat,Deremius
+5085,1,14,529,106,True,False,Tactical Bombing,Caulder,Chopstix
+4975,2,12,411,106,True,False,Tactical Bombing,Waylon,sarastro
+4972,2,16,645,106,True,False,Tactical Bombing,Waylon,TMQs
+4948,1,16,554,106,True,False,Tactical Bombing,Hawk,Chopstix
+4924,1,14,595,106,True,False,Tactical Bombing,Tabitha,JTQWN
+4887,2,14,538,106,True,False,Tactical Bombing,Waylon,BusterBeachside
+4840,2,13,455,106,True,True,Tactical Bombing,Hawk,Jonathan2357
+4837,2,18,757,106,True,False,Tactical Bombing,Tabitha,Mahizzle
+4780,2,9,214,106,True,True,Tactical Bombing,Brenner,Whealy
+4772,2,17,693,106,True,False,Tactical Bombing,Hawk,Geko
+4771,1,12,409,106,True,False,Tactical Bombing,Tabitha,Operation Mechstorm
+4745,1,14,522,106,True,True,Tactical Bombing,Tabitha,Nanao
+4732,1,13,525,106,True,False,Tactical Bombing,Tabitha,PhantomFullForce
+4628,2,17,666,106,True,False,Tactical Bombing,Caulder,zielinskigr
+4601,2,18,720,106,True,False,Tactical Bombing,Tasha,xaltt
+4591,2,13,422,106,True,False,Tactical Bombing,Penny,Nanao
+4549,1,17,756,106,True,False,Tactical Bombing,Zhaotiantong,JTQWN
+4520,1,17,670,106,True,False,Tactical Bombing,Gage,Sgt.Chloride
+4499,1,11,367,106,True,False,Tactical Bombing,Zhaotiantong,FindMyNeotank
+4495,1,17,829,106,True,False,Tactical Bombing,Waylon,Adept999
+4381,1,11,346,106,True,False,Tactical Bombing,Tasha,Sgt.Chloride
+4379,2,13,418,106,True,False,Tactical Bombing,Zhaotiantong,Penny!
+4371,1,8,201,106,True,True,Tactical Bombing,Lee,rmac
+4360,2,14,497,106,True,True,Tactical Bombing,Tasha,overlordto12
+4351,2,10,279,106,True,True,Tactical Bombing,Brenner,Adept999
+4332,2,12,380,106,True,True,Tactical Bombing,Mira,Chan ' tcho
+4326,2,11,345,106,True,False,Tactical Bombing,Waylon,King Arthur
+4245,2,12,376,106,True,True,Tactical Bombing,Tabitha,Plague
+4242,2,14,563,106,True,False,Tactical Bombing,Forsythe,Mauwus
+4207,1,12,426,106,True,False,Tactical Bombing,Waylon,DM11
+4170,1,17,770,106,True,False,Tactical Bombing,Will,DM11
+4161,1,16,724,106,True,False,Tactical Bombing,Waylon,JTQWN
+4158,1,12,395,106,True,True,Tactical Bombing,Isabella,Fluttyx
+4151,2,16,686,106,True,False,Tactical Bombing,Isabella,sarastro
+4088,1,8,209,106,True,True,Tactical Bombing,Tabitha,Nuclear Rat
+4055,2,10,269,106,True,True,Tactical Bombing,Waylon,twan
+4005,1,13,484,106,True,False,Tactical Bombing,Caulder,TheManCalledBen
+3998,2,13,469,106,True,False,Tactical Bombing,Lee,DM11
+3964,1,18,759,106,True,False,Tactical Bombing,Brenner,Adept999
+3963,2,11,350,106,True,False,Tactical Bombing,Caulder,Abreu
+3932,1,17,722,106,True,False,Tactical Bombing,Tabitha,Nuclear Rat
+3857,2,11,314,106,True,False,Tactical Bombing,Caulder,King Arthur
+3833,2,15,531,106,True,False,Tactical Bombing,Brenner,LenWan
+3737,2,6,102,106,True,True,Tactical Bombing,Hawk,Whealy
+3731,2,12,433,106,True,False,Tactical Bombing,Forsythe,Lionhert2005
+3724,1,14,523,106,True,False,Tactical Bombing,Lee,KaelDra27
+3668,2,12,420,106,True,False,Tactical Bombing,Brenner,Aidan
+3615,2,10,281,106,True,False,Tactical Bombing,Hawk,TMQs
+3597,1,11,349,106,True,False,Tactical Bombing,Hawk,TMQs
+3552,2,8,180,106,True,True,Tactical Bombing,Isabella,Hurricane_Slash
+3507,2,15,512,106,True,False,Tactical Bombing,Forsythe,PhantomFullForce
+3492,1,7,153,106,True,True,Tactical Bombing,Forsythe,purifierwarmech
+3428,1,19,891,106,True,False,Tactical Bombing,Forsythe,Geko
+3421,2,13,466,106,True,False,Tactical Bombing,Forsythe,SparkFox
+3372,1,14,531,106,True,False,Tactical Bombing,Mira,Anabella
+3309,1,13,488,106,True,False,Tactical Bombing,Penny,Mauwus
+3301,1,12,400,106,True,False,Tactical Bombing,Zhaotiantong,Krolan
+3300,2,8,171,106,True,True,Tactical Bombing,Zhaotiantong,Krolan
+3287,1,8,186,106,True,True,Tactical Bombing,Lin,Saiky27
+3196,1,11,383,106,True,False,Tactical Bombing,Penny,不是icy
+3059,2,12,392,106,True,False,Tactical Bombing,Isabella,sarastro
+3055,1,16,688,106,True,False,Tactical Bombing,Tabitha,不是icy
+3039,1,6,121,106,True,True,Tactical Bombing,Zhaotiantong,Maleous
+2939,2,17,707,106,True,False,Tactical Bombing,Caulder,Mini Nini
+2892,1,16,704,106,True,False,Tactical Bombing,Zhaotiantong,Mini Nini
+2878,2,14,549,106,True,False,Tactical Bombing,Brenner,Sir Biggles
+2873,2,29,1595,106,True,False,Tactical Bombing,Penny,Plague
+2863,1,14,560,106,True,False,Tactical Bombing,Caulder,Mini Nini
+2849,1,21,797,106,True,False,Tactical Bombing,Zhaotiantong,Monsters_vs_MyDad
+2841,2,15,596,106,True,False,Tactical Bombing,Grat,Maleous
+2826,2,15,594,106,True,False,Tactical Bombing,Waylon,Fluhfie
+2825,2,7,141,106,True,True,Tactical Bombing,Caulder,Mini Nini
+2779,2,14,549,106,True,False,Tactical Bombing,Mira,Mini Nini
+2713,1,13,459,106,True,False,Tactical Bombing,Brenner,FUULROD
+2645,1,18,739,106,True,False,Tactical Bombing,Penny,Sliicer
+2623,2,17,756,106,True,False,Tactical Bombing,Tasha,cjlim2007
+2552,2,13,467,106,True,False,Tactical Bombing,Will,FUULROD
+2460,2,26,1113,106,True,False,Tactical Bombing,Forsythe,Lordofcold
+2426,2,13,415,106,True,True,Tactical Bombing,Penny,Chan ' tcho
+2409,2,7,139,106,True,True,Tactical Bombing,Forsythe,Super Vlad
+2352,2,16,657,106,True,False,Tactical Bombing,Waylon,wolf_71
+2315,1,12,388,106,True,False,Tactical Bombing,Waylon,FUULROD
+2310,2,19,881,106,True,False,Tactical Bombing,Will,Plague
+2273,1,11,357,106,True,False,Tactical Bombing,Tabitha,Mini Nini
+2236,1,16,619,106,True,False,Tactical Bombing,Brenner,Mini Nini
+2172,1,13,479,106,True,False,Tactical Bombing,Will,Mini Nini
+2163,1,7,151,106,True,True,Tactical Bombing,(No CO),DC29
+2159,1,10,336,106,True,False,Tactical Bombing,Caulder,Mini Nini
+2156,1,16,546,106,True,False,Tactical Bombing,Hawk,Playmaker 
+2047,2,13,459,106,True,False,Tactical Bombing,Hawk,The Philanthropist
+5937,2,18,887,158,True,False,Starving Wars,Hawk,Plague
+5826,2,19,797,158,True,False,Starving Wars,Isabella,BWAVE
+5774,2,20,716,158,True,False,Starving Wars,Tabitha,Nanao
+5657,1,18,722,158,True,False,Starving Wars,Lee,Nanao
+5651,1,13,504,158,True,False,Starving Wars,Hawk,Chopstix
+5632,1,10,341,158,True,True,Starving Wars,Brenner,ePiiC PaNiiC
+5624,2,14,564,158,True,False,Starving Wars,Tabitha,Lolom
+5614,1,9,255,158,True,True,Starving Wars,Tabitha,chichote
+5590,1,19,846,158,True,False,Starving Wars,Will,Mike Zack
+5577,1,18,772,158,True,False,Starving Wars,Tabitha,Lolom
+5566,2,17,817,158,True,False,Starving Wars,Will,DM11
+5563,2,19,854,158,True,False,Starving Wars,Penny,TheManCalledBen
+5513,2,11,356,158,True,False,Starving Wars,Tabitha,HoshiNoKoe13
+5392,1,26,1056,158,True,False,Starving Wars,Penny,Mike Zack
+5382,1,17,668,158,True,False,Starving Wars,Brenner,TheMuffins
+5357,2,13,320,158,True,False,Starving Wars,Isabella,GM667_
+5332,2,12,427,158,True,False,Starving Wars,Caulder,Mahizzle
+5323,2,12,360,158,True,True,Starving Wars,Isabella,Nanao
+5281,1,9,287,158,True,False,Starving Wars,Waylon,Tayufa
+5266,2,14,535,158,True,False,Starving Wars,Mira,BWAVE
+5211,1,19,824,158,True,False,Starving Wars,Brenner,TheMuffins
+5191,1,20,1017,158,True,False,Starving Wars,Caulder,PhantomFullForce
+5156,2,22,846,158,True,False,Starving Wars,Isabella,Jonathan2357
+5101,1,17,709,158,True,False,Starving Wars,Will,Hurricane_Slash
+5097,1,18,747,158,True,False,Starving Wars,Isabella,EBSY
+5063,1,19,790,158,True,False,Starving Wars,Will,Mike Zack
+5037,2,12,400,158,True,False,Starving Wars,Forsythe,Hurricane_Slash
+5011,2,14,516,158,True,False,Starving Wars,Brenner,Mahizzle
+4923,2,12,412,158,True,False,Starving Wars,Brenner,Lordofcold
+4892,1,11,346,158,True,True,Starving Wars,Brenner,Mike Zack
+4811,2,14,514,158,True,False,Starving Wars,Tinker,Nanao
+4683,1,23,1130,158,True,False,Starving Wars,Gage,Plague
+4658,1,23,982,158,True,False,Starving Wars,Tabitha,Hurricane_Slash
+4635,2,9,231,158,True,True,Starving Wars,Mira,Zerobillion
+4616,2,12,418,158,True,False,Starving Wars,Waylon,sarastro
+4589,1,12,454,158,True,False,Starving Wars,Isabella,Hurricane_Slash
+4570,2,14,570,158,True,False,Starving Wars,Brenner,Mahizzle
+4552,2,18,782,158,True,False,Starving Wars,Isabella,Whealy
+4487,1,16,695,158,True,False,Starving Wars,Isabella,TheManCalledBen
+4369,2,8,189,158,True,True,Starving Wars,Tabitha,ReZurRekt843
+4361,1,6,131,158,True,True,Starving Wars,Waylon,xrumblingcdsx
+4352,1,16,682,158,True,False,Starving Wars,Tabitha,FindMyNeotank
+4320,1,25,1004,158,True,False,Starving Wars,Tabitha,FindMyNeotank
+4318,1,17,740,158,True,True,Starving Wars,(No CO),Tayufa
+4295,1,14,582,158,True,False,Starving Wars,Will,King Arthur
+4221,2,15,536,158,True,True,Starving Wars,Caulder,Napoleon
+4183,1,19,841,158,True,False,Starving Wars,Zhaotiantong,FindMyNeotank
+4165,2,28,1379,158,True,False,Starving Wars,Gage,PhantomFullForce
+4144,1,22,782,158,True,False,Starving Wars,Isabella,Fluttyx
+4091,1,13,510,158,True,False,Starving Wars,Will,King Arthur
+4045,1,15,612,158,True,True,Starving Wars,Tinker,overlordto12
+4041,2,19,773,158,True,False,Starving Wars,Waylon,King Arthur
+4036,1,16,668,158,True,True,Starving Wars,Tabitha,zielinskigr
+4029,2,24,969,158,True,False,Starving Wars,Isabella,Hurricane_Slash
+4023,2,19,714,158,True,False,Starving Wars,Isabella,Fluttyx
+3890,1,11,418,158,True,False,Starving Wars,Brenner,Hurricane_Slash
+3815,1,7,156,158,True,True,Starving Wars,Tabitha,tingle
+3749,1,13,528,158,True,False,Starving Wars,Penny,King Arthur
+3730,1,13,553,158,True,False,Starving Wars,Penny,Mauwus
+3715,1,6,151,158,True,True,Starving Wars,Gage,PhantomFullForce
+3710,1,9,297,158,True,False,Starving Wars,Zhaotiantong,Deremius
+3703,1,22,974,158,True,False,Starving Wars,Caulder,twan
+3686,2,14,472,158,True,False,Starving Wars,Tasha,Adept999
+3670,2,32,1461,158,True,False,Starving Wars,Hawk,DC290
+3639,2,21,893,158,True,True,Starving Wars,Penny,BusterBeachside
+3600,2,10,298,158,True,False,Starving Wars,Brenner,Barondoctor
+3599,2,18,855,158,True,False,Starving Wars,Tabitha,King Arthur
+3588,2,18,801,158,True,False,Starving Wars,Grat,Nuclear Rat
+3510,1,23,1052,158,True,False,Starving Wars,Will,Deejus
+3484,2,8,177,158,True,True,Starving Wars,Zhaotiantong,woshiwaiguoren
+3379,1,13,362,158,True,False,Starving Wars,Tinker,Cheshirecat
+3355,1,14,404,158,True,True,Starving Wars,Zhaotiantong,Krolan
+3343,1,41,2118,158,True,False,Starving Wars,Zhaotiantong,Zerobillion
+3290,1,15,579,158,True,True,Starving Wars,Penny,Deejus
+3243,1,14,546,158,True,False,Starving Wars,Brenner,Nuclear Rat
+3218,2,36,2041,158,True,False,Starving Wars,Lin,Anabella
+3213,1,8,172,158,True,True,Starving Wars,Waylon,Cheshirecat
+3207,1,11,419,158,True,False,Starving Wars,Penny,Sliicer
+3192,1,25,1201,158,True,False,Starving Wars,Penny,megt0n
+3190,1,18,650,158,True,False,Starving Wars,Grat,Nuclear Rat
+3168,1,18,608,158,True,False,Starving Wars,Zhaotiantong,Krolan
+3110,1,17,588,158,True,False,Starving Wars,Brenner,wolf_71
+3092,1,14,509,158,True,False,Starving Wars,Waylon,sarastro
+3049,1,12,346,158,True,False,Starving Wars,Tabitha,KaelDra27
+2987,2,32,1426,158,True,True,Starving Wars,Waylon,DC290
+2956,2,13,501,158,True,False,Starving Wars,Isabella,RayKadoodles
+2936,1,19,780,158,True,False,Starving Wars,Isabella,RayKadoodles
+2933,1,14,570,158,True,False,Starving Wars,Forsythe,xrumblingcdsx
+2916,1,15,507,158,True,False,Starving Wars,Zhaotiantong,Monsters_vs_MyDad
+2904,2,16,789,158,True,False,Starving Wars,Will,SonjaTheSuperior11
+2902,2,7,154,158,True,True,Starving Wars,Tasha,Chan ' tcho
+2886,1,15,522,158,True,False,Starving Wars,Isabella,史莱喵。
+2856,2,17,698,158,True,False,Starving Wars,Grat,Rush_FTK
+2778,2,7,163,158,True,True,Starving Wars,Zhaotiantong,G47Rush
+2759,1,13,534,158,True,False,Starving Wars,Forsythe,Lordofcold
+2692,1,16,500,158,True,False,Starving Wars,Forsythe,Monsters_vs_MyDad
+2571,1,13,511,158,True,False,Starving Wars,Isabella,CommanderLuciel
+5908,1,17,694,68,True,False,Valhalla,Forsythe,TheMuffins
+5822,1,19,857,68,True,False,Valhalla,Penny,HoshiNoKoe13
+5810,2,13,468,68,True,True,Valhalla,Waylon,Draco
+5738,1,17,788,68,True,False,Valhalla,Hawk,Adnavacake
+5694,1,16,623,68,True,False,Valhalla,Lin,Abreu
+5689,1,20,878,68,True,False,Valhalla,Tabitha,BWAVE
+5652,1,20,998,68,True,False,Valhalla,Brenner,PhantomFullForce
+5596,1,15,538,68,True,True,Valhalla,Brenner,TheMuffins
+5507,2,22,941,68,True,False,Valhalla,Isabella,Mike Zack
+5333,2,13,466,68,True,True,Valhalla,Forsythe,TheMuffins
+5317,1,17,743,68,True,False,Valhalla,Caulder,Chopstix
+5292,1,19,997,68,True,False,Valhalla,Will,Plague
+5267,1,17,735,68,True,False,Valhalla,Mira,BWAVE
+5259,1,19,904,68,True,False,Valhalla,Penny,ePiiC PaNiiC
+5152,1,15,611,68,True,False,Valhalla,Zhaotiantong,JTQWN
+5149,1,17,749,68,True,False,Valhalla,Caulder,Nonova
+5139,0,26,1217,68,True,False,Valhalla,,
+5068,2,24,1015,68,True,False,Valhalla,Will,Mike Zack
+5064,2,11,326,68,True,True,Valhalla,Brenner,Private_J
+5057,2,10,268,68,True,True,Valhalla,Brenner,Draco
+5039,2,15,555,68,True,False,Valhalla,Isabella,Hurricane_Slash
+5021,2,15,596,68,True,True,Valhalla,Caulder,Raguna
+4997,1,19,832,68,True,False,Valhalla,Brenner,PhantomFullForce
+4981,2,15,561,68,True,True,Valhalla,Brenner,Hurricane_Slash
+4968,1,16,649,68,True,False,Valhalla,Isabella,Mahizzle
+4859,1,12,381,68,True,True,Valhalla,Will,Ndrangheta'
+4798,1,22,1037,68,True,False,Valhalla,Isabella,Nanao
+4726,1,13,525,68,True,True,Valhalla,Lin,Mauwus
+4702,1,6,128,68,True,True,Valhalla,Penny,Sliicer
+4693,1,14,594,68,True,False,Valhalla,Isabella,DM11
+4663,1,19,848,68,True,True,Valhalla,Forsythe,Curiosity
+4654,1,22,1262,68,True,False,Valhalla,Brenner,Mini Nini
+4580,2,12,413,68,True,False,Valhalla,Greyfield,xaltt
+4575,2,17,789,68,True,False,Valhalla,Tabitha,Operation Mechstorm
+4573,1,18,889,68,True,False,Valhalla,Isabella,Geko
+4571,1,17,772,68,True,False,Valhalla,Tabitha,Hurricane_Slash
+4540,2,29,1546,68,True,False,Valhalla,Will,Raguna
+4504,2,25,996,68,True,False,Valhalla,Zhaotiantong,Nanao
+4478,2,14,598,68,True,False,Valhalla,Waylon,Mauwus
+4464,2,11,371,68,True,True,Valhalla,Zhaotiantong,JTQWN
+4421,2,25,1275,68,True,False,Valhalla,Tabitha,Napoleon
+4383,2,7,148,68,True,True,Valhalla,Tabitha,NMX2
+4373,1,28,1237,68,True,False,Valhalla,Hawk,Deremius
+4291,2,42,2689,68,True,False,Valhalla,Will,Whealy
+4278,1,28,1384,68,True,True,Valhalla,Forsythe,zielinskigr
+4259,1,18,860,68,True,False,Valhalla,Tabitha,Aidan
+4241,2,23,1236,68,True,True,Valhalla,Forsythe,FindMyNeotank
+4232,2,11,370,68,True,False,Valhalla,Waylon,JTQWN
+4182,2,14,532,68,True,False,Valhalla,Forsythe,thermaldyn
+4167,1,26,1606,68,True,False,Valhalla,Tasha,Adept999
+4149,2,29,1473,68,True,False,Valhalla,Will,Divva
+4112,2,8,178,68,True,True,Valhalla,Brenner,Sgt.Chloride
+4076,1,20,943,68,True,False,Valhalla,Will,Hurricane_Slash
+4020,2,14,491,68,True,True,Valhalla,Penny,Sliicer
+3820,1,14,581,68,True,True,Valhalla,Brenner,Deejus
+3757,1,8,208,68,True,True,Valhalla,Tabitha,KaelDra27
+3729,2,13,409,68,True,True,Valhalla,Tabitha,Deejus
+3728,1,9,267,68,True,True,Valhalla,Zhaotiantong,!try!
+3727,2,12,419,68,True,False,Valhalla,Hawk,King Arthur
+3719,2,13,424,68,True,False,Valhalla,Penny,Zerobillion
+3701,2,14,573,68,True,False,Valhalla,Hawk,King Arthur
+3649,1,14,490,68,True,False,Valhalla,Will,Divva
+3561,1,6,126,68,True,True,Valhalla,Brenner,Nuclear Rat
+3506,1,13,482,68,True,False,Valhalla,Will,Adept999
+3485,2,8,179,68,True,True,Valhalla,Penny,woshiwaiguoren
+3411,2,19,830,68,True,False,Valhalla,Tasha,overlordto12
+3405,1,17,796,68,True,False,Valhalla,Brenner,SparkFox
+3403,1,16,631,68,True,False,Valhalla,Will,SparkFox
+3380,1,14,495,68,True,False,Valhalla,Brenner,xrumblingcdsx
+3347,1,17,888,68,True,False,Valhalla,Penny,Gombel
+3330,1,19,815,68,True,True,Valhalla,Will,RayKadoodles
+3323,1,11,359,68,True,True,Valhalla,Zhaotiantong,fuzzygenie
+3303,2,13,364,68,True,False,Valhalla,Penny,zielinskigr
+3259,2,21,697,68,True,False,Valhalla,Tabitha,Saiky27
+3127,2,21,940,68,True,False,Valhalla,Hawk,Maleous
+3060,2,20,948,68,True,True,Valhalla,Caulder,ePiiC PaNiiC
+3027,2,11,321,68,True,False,Valhalla,Lin,Akashichi
+2994,2,6,111,68,True,True,Valhalla,Will,Bruce818
+2917,2,28,1510,68,True,True,Valhalla,Penny,BusterBeachside
+2901,1,10,303,68,True,False,Valhalla,Brenner,SonjaTheSuperior11
+2893,2,10,254,68,True,False,Valhalla,Lee,Akashichi
+2874,2,23,1031,68,True,False,Valhalla,Forsythe,Lordofcold
+2838,2,26,1402,68,True,True,Valhalla,Tabitha,不是icy
+2805,1,31,1774,68,True,False,Valhalla,Penny,CommanderLuciel
+2738,2,33,1963,68,True,False,Valhalla,Lee,Mini Nini
+2705,1,29,1428,68,True,False,Valhalla,Zhaotiantong,Maleous
+2589,2,17,813,68,True,False,Valhalla,Tabitha,不是icy
+2466,1,13,498,68,True,True,Valhalla,Tabitha,CommanderLuciel
+2416,2,13,431,68,True,True,Valhalla,Lin,Raisak
+2393,1,18,844,68,True,False,Valhalla,Tabitha,不是icy
+2384,1,12,423,68,True,True,Valhalla,Brenner,Mini Nini
+2379,2,11,334,68,True,True,Valhalla,Caulder,Rush_FTK
+2303,2,18,815,68,True,False,Valhalla,Will,SonjaTheSuperior11
+2241,2,11,342,68,True,True,Valhalla,Lee,Mini Nini
+2240,1,14,538,68,True,True,Valhalla,Forsythe,Super Vlad
+2223,2,16,577,68,True,False,Valhalla,Penny,purifierwarmech
+2190,1,11,373,68,True,True,Valhalla,Forsythe,Mini Nini
+5862,1,16,652,110,True,True,Swamp City,Forsythe,TheMuffins
+5842,2,15,565,110,True,False,Swamp City,Hawk,ePiiC PaNiiC
+5662,1,16,681,110,True,False,Swamp City,Penny,HoshiNoKoe13
+5647,1,21,983,110,True,True,Swamp City,Forsythe,BWAVE
+5592,1,11,366,110,True,True,Swamp City,Brenner,Nonova
+5580,1,18,763,110,True,False,Swamp City,Brenner,SparkFox
+5561,2,18,767,110,True,False,Swamp City,Caulder,Draco
+5556,2,15,593,110,True,False,Swamp City,Will,Plague
+5548,1,7,168,110,True,True,Swamp City,Lin,GM667_
+5418,2,19,852,110,True,False,Swamp City,Forsythe,PhantomFullForce
+5413,2,12,325,110,True,False,Swamp City,Tabitha,NocturnalRaven
+5279,2,19,852,110,True,False,Swamp City,Brenner,TheManCalledBen
+5268,2,7,136,110,True,False,Swamp City,Tabitha,Chopstix
+5229,2,20,891,110,True,False,Swamp City,Brenner,CaioSantso
+5205,1,13,514,110,True,False,Swamp City,Isabella,Tayufa
+5140,2,17,741,110,True,True,Swamp City,Tabitha,JTQWN
+5117,2,18,778,110,True,False,Swamp City,Penny,Sliicer
+4965,1,11,347,110,True,False,Swamp City,Hawk,Chopstix
+4961,1,25,1098,110,True,False,Swamp City,Isabella,ePiiC PaNiiC
+4856,2,7,139,110,True,True,Swamp City,Brenner,SparkFox
+4758,1,12,399,110,True,False,Swamp City,Lin,Operation Mechstorm
+4741,2,13,469,110,True,True,Swamp City,Tinker,Abreu
+4720,1,16,632,110,True,False,Swamp City,Tabitha,EBSY
+4705,1,15,537,110,True,False,Swamp City,Brenner,LuarSoleil
+4675,1,15,605,110,True,True,Swamp City,Penny,Nanao
+4652,2,17,708,110,True,False,Swamp City,Brenner,LeLieuTenant
+4626,1,13,492,110,True,False,Swamp City,Zhaotiantong,JTQWN
+4613,2,8,196,110,True,True,Swamp City,Mira,Raguna
+4574,2,13,483,110,True,False,Swamp City,Will,DM11
+4524,1,15,618,110,True,False,Swamp City,Tabitha,Penny!
+4500,2,16,625,110,True,False,Swamp City,Zhaotiantong,JTQWN
+4466,1,14,590,110,True,False,Swamp City,Isabella,Operation Mechstorm
+4416,2,24,1278,110,True,False,Swamp City,Penny,Zerobillion
+4382,2,7,149,110,True,False,Swamp City,Brenner,Deejus
+4374,1,14,548,110,True,True,Swamp City,Will,Geko
+4348,2,6,108,110,True,True,Swamp City,Penny,TMQs
+4316,1,18,769,110,True,False,Swamp City,Brenner,PhantomFullForce
+4312,1,15,601,110,True,False,Swamp City,Mira,Mini Nini
+4309,2,21,1056,110,True,False,Swamp City,Isabella,King Arthur
+4283,1,11,383,110,True,False,Swamp City,Zhaotiantong,Penny!
+4227,2,12,371,110,True,True,Swamp City,Lee,ePiiC PaNiiC
+4169,1,18,835,110,True,False,Swamp City,Gage,Mauwus
+4009,1,7,172,110,True,True,Swamp City,Caulder,Shmoequey
+3986,2,10,289,110,True,True,Swamp City,Forsythe,PhantomFullForce
+3974,2,11,344,110,True,False,Swamp City,Tabitha,FindMyNeotank
+3959,2,17,768,110,True,False,Swamp City,Hawk,King Arthur
+3925,1,10,312,110,True,False,Swamp City,Brenner,Plague
+3897,1,6,126,110,True,False,Swamp City,Forsythe,Creed
+3873,1,14,500,110,True,False,Swamp City,Greyfield,KaelDra27
+3871,1,15,623,110,True,False,Swamp City,Hawk,Deremius
+3864,1,17,736,110,True,False,Swamp City,Isabella,Mauwus
+3855,2,12,416,110,True,True,Swamp City,Lin,DM11
+3834,1,9,270,110,True,True,Swamp City,Penny,Hummus King
+3832,2,12,393,110,True,False,Swamp City,Brenner,Spartacous
+3776,1,10,310,110,True,False,Swamp City,Isabella,Rush_FTK
+3698,1,14,539,110,True,False,Swamp City,Hawk,Wellaran
+3643,1,14,575,110,True,False,Swamp City,Isabella,Mauwus
+3595,1,16,625,110,True,True,Swamp City,Lin,wolf_71
+3573,1,8,219,110,True,True,Swamp City,Tinker,FindMyNeotank
+3468,1,19,864,110,True,False,Swamp City,Penny,FindMyNeotank
+3464,1,10,335,110,True,False,Swamp City,Penny,Zerobillion
+3453,1,15,551,110,True,False,Swamp City,Isabella,RayKadoodles
+3426,2,15,485,110,True,False,Swamp City,Tabitha,Zerobillion
+3393,1,16,619,110,True,False,Swamp City,Zhaotiantong,Krolan
+3387,2,10,278,110,True,False,Swamp City,Penny,FindMyNeotank
+3358,1,8,208,110,True,True,Swamp City,Lin,Rush_FTK
+3339,1,19,902,110,True,True,Swamp City,Forsythe,Mini Nini
+3189,2,7,143,110,True,True,Swamp City,Lin,LotLaPecera
+3170,1,12,435,110,True,False,Swamp City,Brenner,Nuclear Rat
+3154,1,23,1147,110,True,False,Swamp City,Zhaotiantong,Mini Nini
+3130,2,9,237,110,True,True,Swamp City,Isabella,Fluhfie
+3041,1,13,527,110,True,False,Swamp City,Hawk,Maleous
+3025,1,14,555,110,True,False,Swamp City,Hawk,Rush_FTK
+2924,2,16,685,110,True,False,Swamp City,Will,Maleous
+2899,2,8,194,110,True,False,Swamp City,Tabitha,Rush_FTK
+2852,2,20,923,110,True,False,Swamp City,Isabella,Fluhfie
+2801,1,11,373,110,True,False,Swamp City,Zhaotiantong,Monsters_vs_MyDad
+2712,2,12,423,110,True,True,Swamp City,Forsythe,Maleous
+2709,2,11,359,110,True,True,Swamp City,Isabella,Fluhfie
+2523,2,9,266,110,True,False,Swamp City,Brenner,Rush_FTK
+5794,2,15,479,163,True,False,Great Bridge,Lee,Lolom
+5654,2,13,402,163,True,False,Great Bridge,Isabella,HoshiNoKoe13
+5637,2,20,875,163,True,False,Great Bridge,Tabitha,BWAVE
+5601,2,23,1049,163,True,False,Great Bridge,Hawk,Chopstix
+5543,1,20,807,163,True,False,Great Bridge,Hawk,HoshiNoKoe13
+5535,2,6,88,163,True,True,Great Bridge,Caulder,Heroes
+5474,2,10,263,163,True,True,Great Bridge,Brenner,Barondoctor
+5465,2,10,259,163,True,True,Great Bridge,Penny,DC290
+5444,2,15,578,163,True,False,Great Bridge,Caulder,Lordofcold
+5438,2,8,173,163,True,True,Great Bridge,Brenner,Jonsey
+5425,2,20,1085,163,True,False,Great Bridge,Forsythe,Operation Mechstorm
+5355,1,32,1661,163,True,False,Great Bridge,Waylon,Draco
+5321,2,14,515,163,True,False,Great Bridge,Waylon,TMQs
+5280,1,18,782,163,True,False,Great Bridge,Isabella,Jonathan2357
+5260,2,16,657,163,True,False,Great Bridge,Waylon,Ndrangheta'
+5227,2,19,875,163,True,True,Great Bridge,Hawk,Adnavacake
+5220,1,10,300,163,True,True,Great Bridge,Tinker,Chan ' tcho
+5207,1,20,869,163,True,False,Great Bridge,Greyfield,Chopstix
+5100,1,26,1360,163,True,False,Great Bridge,Penny,Mahizzle
+5056,2,18,778,163,True,False,Great Bridge,Forsythe,ePiiC PaNiiC
+5013,1,16,671,163,True,False,Great Bridge,Brenner,Mahizzle
+4982,1,21,912,163,True,False,Great Bridge,Isabella,Nanao
+4963,2,13,501,163,True,False,Great Bridge,Brenner,Nonova
+4958,2,8,169,163,True,True,Great Bridge,Zhaotiantong,JTQWN
+4912,2,9,218,163,True,True,Great Bridge,Caulder,ePiiC PaNiiC
+4896,1,16,653,163,True,False,Great Bridge,Hawk,Chopstix
+4860,1,28,1353,163,True,True,Great Bridge,Penny,Pistolaceo
+4845,1,33,1852,163,True,False,Great Bridge,Gage,Raguna
+4747,2,13,436,163,True,False,Great Bridge,Caulder,PhantomFullForce
+4716,2,18,725,163,True,False,Great Bridge,Greyfield,sarastro
+4698,1,14,549,163,True,False,Great Bridge,Hawk,Operation Mechstorm
+4647,2,12,386,163,True,True,Great Bridge,Caulder,Deremius
+4596,1,12,427,163,True,True,Great Bridge,Brenner,DM11
+4583,2,15,581,163,True,False,Great Bridge,Greyfield,xaltt
+4555,1,23,1110,163,True,False,Great Bridge,Penny,xaltt
+4485,2,22,1184,163,True,False,Great Bridge,Greyfield,Plague
+4484,1,26,1407,163,True,False,Great Bridge,Brenner,Whealy
+4473,2,25,1057,163,True,False,Great Bridge,Zhaotiantong,JTQWN
+4472,1,23,1065,163,True,False,Great Bridge,Penny,FindMyNeotank
+4438,1,18,706,163,True,False,Great Bridge,Forsythe,JTQWN
+4433,1,19,869,163,True,False,Great Bridge,Penny,Nanao
+4358,2,19,857,163,True,True,Great Bridge,Brenner,PhantomFullForce
+4345,2,16,617,163,True,False,Great Bridge,Will,DM11
+4336,2,15,589,163,True,False,Great Bridge,Waylon,Frodoor
+4323,2,11,318,163,True,False,Great Bridge,Caulder,zielinskigr
+4193,1,17,877,163,True,False,Great Bridge,Brenner,DM11
+4159,2,13,471,163,True,True,Great Bridge,Waylon,Mauwus
+4150,2,9,212,163,True,True,Great Bridge,Brenner,GM667_
+4113,1,16,716,163,True,False,Great Bridge,Waylon,bigou
+4108,1,21,959,163,True,False,Great Bridge,Gage,Spartacous
+4038,2,18,870,163,True,False,Great Bridge,Greyfield,Mauwus
+4022,2,11,311,163,True,False,Great Bridge,Waylon,Sgt.Chloride
+3906,1,22,896,163,True,False,Great Bridge,Gage,Raguna
+3849,2,22,864,163,True,False,Great Bridge,Greyfield,twan
+3831,2,6,101,163,True,True,Great Bridge,Hawk,Operation Mechstorm
+3817,2,12,379,163,True,False,Great Bridge,Zhaotiantong,Zerobillion
+3743,1,18,818,163,True,True,Great Bridge,Isabella,DM11
+3732,2,10,264,163,True,False,Great Bridge,Hawk,Wellaran
+3667,2,15,514,163,True,False,Great Bridge,Lee,Saiky27
+3638,1,13,477,163,True,False,Great Bridge,Brenner,Adept999
+3604,2,11,321,163,True,False,Great Bridge,Waylon,Frodoor
+3544,2,22,838,163,True,True,Great Bridge,Grat,fuzzygenie
+3424,1,10,289,163,True,False,Great Bridge,Zhaotiantong,Geko
+3420,0,6,72,163,True,False,Great Bridge,,
+3390,2,15,523,163,True,False,Great Bridge,Greyfield,Adept999
+3388,2,11,326,163,True,False,Great Bridge,Zhaotiantong,Divva
+3362,2,16,642,163,True,True,Great Bridge,Brenner,Shmoequey
+3251,2,13,437,163,True,False,Great Bridge,Zhaotiantong,Krolan
+3120,1,19,1023,163,True,False,Great Bridge,Penny,不是icy
+3104,1,15,570,163,True,False,Great Bridge,Isabella,RayKadoodles
+2942,1,15,599,163,True,False,Great Bridge,Isabella,史莱喵。
+2913,2,14,491,163,True,False,Great Bridge,Waylon,mathblitz
+2909,2,19,824,163,True,False,Great Bridge,Tasha,AdvanceWarrior
+2890,2,17,668,163,True,True,Great Bridge,Brenner,Frost_Lantern
+2851,1,20,1034,163,True,False,Great Bridge,Zhaotiantong,Mini Nini
+2844,2,10,261,163,True,False,Great Bridge,Zhaotiantong,Monsters_vs_MyDad
+2843,2,19,793,163,True,False,Great Bridge,Forsythe,Monsters_vs_MyDad
+2821,2,25,1071,163,True,False,Great Bridge,Isabella,史莱喵。
+2730,2,12,400,163,True,False,Great Bridge,Zhaotiantong,Maleous
+2718,2,7,137,163,True,True,Great Bridge,Zhaotiantong,Mini Nini
+2643,1,16,736,163,True,False,Great Bridge,Tabitha,Rush_FTK
+2527,2,23,1175,163,True,False,Great Bridge,Mira,Maleous
+2475,1,13,456,163,True,True,Great Bridge,Waylon,CommanderLuciel
+5692,2,22,633,153,False,False,Default,Caulder,CuntSlayer
+5686,1,15,450,153,False,True,Default,Tasha,Tayufa
+5643,1,11,312,153,False,False,Default,Caulder,Mike Zack
+5603,2,13,361,153,False,False,Default,Tabitha,HoshiNoKoe13
+5589,2,14,413,153,False,False,Default,Forsythe,Lordofcold
+5579,2,12,299,153,False,False,Default,Greyfield,Heroes
+5538,2,23,655,153,False,False,Default,Will,Heroes
+5525,2,15,451,153,False,True,Default,Will,Adnavacake
+5500,1,18,554,153,False,False,Default,Hawk,Deremius
+5354,2,14,354,153,False,False,Default,Lin,Mike Zack
+5329,1,14,402,153,False,False,Default,Tabitha,Tee Lord
+5307,2,7,133,153,False,True,Default,Brenner,Barondoctor
+5305,0,35,1254,153,False,False,Default,,
+5293,2,14,401,153,False,False,Default,Tabitha,BWAVE
+5278,2,16,505,153,False,False,Default,Caulder,TheManCalledBen
+5274,1,21,676,153,False,False,Default,Isabella,Hurricane_Slash
+5188,1,9,222,153,False,False,Default,Forsythe,Dyslexic Lizard
+5185,1,12,336,153,False,False,Default,Penny,NeroZonbolt
+5126,2,9,186,153,False,True,Default,Tinker,Nanao
+5079,1,17,548,153,False,False,Default,Lin,King Arthur
+5072,1,14,400,153,False,False,Default,Forsythe,Lordofcold
+5038,2,17,539,153,False,False,Default,Brenner,Mahizzle
+4957,1,17,531,153,False,False,Default,Grat,Hurricane_Slash
+4954,2,16,445,153,False,False,Default,Lin,Ghancc
+4875,2,33,1309,153,False,False,Default,Isabella,Red-One
+4844,1,17,496,153,False,False,Default,Caulder,IDSSleeperAgent
+4820,1,16,499,153,False,False,Default,Will,Ghancc
+4793,1,12,297,153,False,False,Default,Caulder,Ghancc
+4763,2,20,618,153,False,False,Default,Tabitha,Mahizzle
+4863,1,15,628,100,False,False,Azure Radiance [HF],Penny,Red-One
+4815,1,16,588,100,False,False,Azure Radiance [HF],Waylon,Divva
+4754,1,21,1022,100,False,False,Azure Radiance [HF],Will,Average__Joe
+4701,2,18,748,100,False,False,Azure Radiance [HF],Lin,Feda
+4623,2,18,794,100,False,False,Azure Radiance [HF],Tabitha,IDSSleeperAgent
+4604,2,7,153,100,False,True,Azure Radiance [HF],Will,Geko
+4498,2,16,646,100,False,False,Azure Radiance [HF],Tabitha,LuarSoleil
+4468,1,6,133,100,False,True,Azure Radiance [HF],Tabitha,Aidan
+4467,2,17,697,100,False,True,Azure Radiance [HF],Lin,TheManCalledBen
+4448,1,12,449,100,False,True,Azure Radiance [HF],Forsythe,MihoNishizumi
+4331,1,13,507,100,False,False,Azure Radiance [HF],Caulder,Arckos
+4195,1,32,1570,100,False,False,Azure Radiance [HF],Gage,Tee Lord
+4181,1,12,433,100,False,False,Azure Radiance [HF],Tabitha,Antihero
+4138,2,17,697,100,False,False,Azure Radiance [HF],Grat,Villefort
+4062,1,21,915,100,False,False,Azure Radiance [HF],Brenner,TheManCalledBen
+3951,1,30,1525,100,False,True,Azure Radiance [HF],Lin,SparkFox
+3845,1,11,393,100,False,True,Azure Radiance [HF],Brenner,Nuclear Rat
+3803,2,7,130,100,False,True,Azure Radiance [HF],Brenner,TONK
+3758,1,7,173,100,False,True,Azure Radiance [HF],Brenner,dpsi
+3666,2,12,402,100,False,True,Azure Radiance [HF],Forsythe,PhantomFullForce
+3515,2,28,1220,100,False,False,Azure Radiance [HF],Tabitha,NeroZonbolt
+3425,1,22,955,100,False,False,Azure Radiance [HF],Isabella,Astady
+3400,1,8,209,100,False,False,Azure Radiance [HF],Brenner,zielinskigr
+3375,2,19,895,100,False,False,Azure Radiance [HF],Mira,Rush_FTK
+3368,2,6,46,100,False,False,Azure Radiance [HF],Penny,KaelDra27
+3364,2,6,115,100,False,True,Azure Radiance [HF],Will,overlordto12
+3348,1,10,306,100,False,False,Azure Radiance [HF],Will,Akubjay
+3263,2,15,574,100,False,False,Azure Radiance [HF],Waylon,Chan ' tcho
+3257,2,18,742,100,False,False,Azure Radiance [HF],Tabitha,Nuclear Rat
+3249,1,16,710,100,False,False,Azure Radiance [HF],Penny,Maleous
+3146,2,16,641,100,False,False,Azure Radiance [HF],Waylon,RayKadoodles
+3034,2,15,566,100,False,True,Azure Radiance [HF],Isabella,RayKadoodles
+2950,1,10,312,100,False,True,Azure Radiance [HF],Penny,不是icy
+2905,1,18,805,100,False,False,Azure Radiance [HF],Lin,Maleous
+2898,2,23,1086,100,False,False,Azure Radiance [HF],Zhaotiantong,Mini Nini
+2867,2,13,466,100,False,False,Azure Radiance [HF],Zhaotiantong,Maleous
+2864,1,22,1086,100,False,False,Azure Radiance [HF],Caulder,Maleous
+2858,1,15,620,100,False,False,Azure Radiance [HF],Isabella,AdvanceWarrior
+2794,1,15,600,100,False,False,Azure Radiance [HF],Zhaotiantong,Mini Nini
+2735,1,16,657,100,False,False,Azure Radiance [HF],Tabitha,不是icy
+2711,1,8,213,100,False,True,Azure Radiance [HF],Isabella,kaiser13
+2673,2,16,579,100,False,False,Azure Radiance [HF],Tabitha,Red-One
+2653,2,18,743,100,False,False,Azure Radiance [HF],Lin,Lordofcold
+2635,1,12,400,100,False,False,Azure Radiance [HF],Caulder,Rush_FTK
+2542,2,15,581,100,False,False,Azure Radiance [HF],Will,Lordofcold
+2535,2,13,467,100,False,False,Azure Radiance [HF],Hawk,Maleous
+2483,1,13,501,100,False,True,Azure Radiance [HF],Forsythe,Avalon
+2453,1,23,1114,100,False,False,Azure Radiance [HF],Caulder,Rush_FTK
+3447,1,14,517,109,False,False,Border Conflict,Brenner,Aidan
+3397,2,16,539,109,False,False,Border Conflict,Lin,Cheshirecat
+3333,2,18,594,109,False,False,Border Conflict,Lee,Zerobillion
+3211,2,19,620,109,False,True,Border Conflict,Mira,Cheshirecat
+3199,1,21,760,109,False,True,Border Conflict,Grat,Avalon
+3178,1,12,397,109,False,False,Border Conflict,Mira,Maleous
+3002,2,23,907,109,False,False,Border Conflict,Hawk,不是icy
+2985,2,9,218,109,False,True,Border Conflict,Lin,Chan ' tcho
+2983,1,13,440,109,False,False,Border Conflict,Penny,Sliicer
+2974,1,13,441,109,False,False,Border Conflict,Mira,Maleous
+2876,1,24,941,109,False,False,Border Conflict,Gage,BusterBeachside
+2797,1,15,524,109,False,False,Border Conflict,Will,Sir Biggles
+2795,1,15,538,109,False,False,Border Conflict,Lin,Sir Biggles
+2744,0,69,5009,109,False,False,Border Conflict,,
+2581,1,12,399,109,False,False,Border Conflict,Lin,Maleous
+2579,2,29,1229,109,False,False,Border Conflict,Mira,Rush_FTK
+2461,2,17,552,109,False,False,Border Conflict,Hawk,Mini Nini
+2431,1,12,389,109,False,False,Border Conflict,Tabitha,Avalon
+2404,1,20,762,109,False,False,Border Conflict,Tabitha,Lordofcold
+2353,2,16,523,109,False,False,Border Conflict,Lin,purifierwarmech
+2309,1,17,581,109,False,False,Border Conflict,Caulder,Mini Nini
+2286,1,20,751,109,False,True,Border Conflict,Tabitha,BusterBeachside
+2284,2,16,550,109,False,True,Border Conflict,Caulder,purifierwarmech
+2275,1,14,490,109,False,False,Border Conflict,Forsythe,R'loc
+2224,1,11,333,109,False,False,Border Conflict,Caulder,Rush_FTK
+2192,2,15,505,109,False,False,Border Conflict,Will,Lordofcold
+2182,1,8,198,109,False,False,Border Conflict,Lin,Lordofcold
+3370,1,16,406,161,False,False,Micro Vortex,Zhaotiantong,Divva
+3094,2,13,268,161,False,False,Micro Vortex,Tabitha,Divva
+3013,2,12,246,161,False,False,Micro Vortex,Gage,Cheshirecat
+3009,1,17,439,161,False,False,Micro Vortex,Tabitha,Aimline
+2868,2,13,310,161,False,False,Micro Vortex,Isabella,Akubjay
+2714,2,15,413,161,False,False,Micro Vortex,Lin,Lordofcold
+2659,2,17,481,161,False,False,Micro Vortex,Tabitha,CommanderLuciel
+2655,1,14,405,161,False,False,Micro Vortex,Will,Red-One
+2619,1,15,412,161,False,False,Micro Vortex,Tabitha,Plague
+2591,2,12,254,161,False,False,Micro Vortex,Zhaotiantong,zhaotiantong
+2473,1,18,525,161,False,False,Micro Vortex,Will,AdvanceWarrior
+2558,1,22,710,131,False,True,One Last Warning,Caulder,N0o2
+2446,2,24,749,131,False,True,One Last Warning,Lin,FUULROD
+2401,2,15,421,131,False,False,One Last Warning,Brenner,FUULROD
+2377,2,33,1151,131,False,False,One Last Warning,Grat,Mini Nini
+2340,2,18,576,131,False,True,One Last Warning,Zhaotiantong,R'loc
+2334,2,15,439,131,False,False,One Last Warning,Lin,Lordofcold
+2319,1,7,143,131,False,True,One Last Warning,Lee,su. 
+2318,1,23,820,131,False,False,One Last Warning,Gage,Abreu
+2281,1,22,774,131,False,False,One Last Warning,Caulder,Rush_FTK
+2247,2,18,562,131,False,False,One Last Warning,Zhaotiantong,Mini Nini
+2239,1,8,187,131,False,True,One Last Warning,Penny,TashasSportsBra
+2230,1,11,306,131,False,True,One Last Warning,Caulder,Mini Nini
+2179,1,14,419,131,False,False,One Last Warning,Mira,BleakHorizon
+2106,1,18,583,131,False,False,One Last Warning,Grat,Avalon
+2546,1,19,728,116,False,False,The Outpost,Forsythe,zhaotiantong
+2543,2,33,1513,116,False,False,The Outpost,Lin,Abreu
+2327,2,6,98,116,False,True,The Outpost,Will,wacho789
+2302,1,41,1854,116,False,False,The Outpost,Grat,Rush_FTK
+2264,1,27,980,116,False,False,The Outpost,Lin,Lordofcold
+2132,2,11,279,116,False,False,The Outpost,Isabella,kaiser13
+2051,2,23,943,116,False,False,The Outpost,Hawk,Plague
+2033,2,13,366,116,False,False,The Outpost,Will,Plague
+2522,2,20,783,67,False,False,No Entry,Gage,magicalpuffin
+2489,1,29,1122,67,False,False,No Entry,Forsythe,Rush_FTK
+2321,1,13,455,67,False,False,No Entry,Lin,AdvanceWarrior
+2276,1,17,586,67,False,False,No Entry,Tinker,FUULROD
+2274,2,14,462,67,False,False,No Entry,Tabitha,Chan ' tcho
+2165,2,16,548,67,False,True,No Entry,Lin,Lordofcold
+2129,1,13,444,67,False,False,No Entry,Isabella,FUULROD
+2504,1,36,2786,42,True,False,Totem site,Tinker,StaleBread
+2484,2,18,1031,42,True,False,Totem site,Waylon,badbadbad
+2476,1,7,151,126,True,True,At Last (TW Ver.),Grat,ePiiC PaNiiC
+2412,2,24,870,126,True,True,At Last (TW Ver.),Brenner,Pauan
+2305,1,15,521,126,True,False,At Last (TW Ver.),Will,LenWan
+2270,2,11,316,126,True,False,At Last (TW Ver.),Grat,Mini Nini
+2213,2,15,596,126,True,False,At Last (TW Ver.),Brenner,zhaotiantong
+2138,1,7,156,126,True,True,At Last (TW Ver.),Forsythe,zhaotiantong
+2116,1,22,811,126,True,False,At Last (TW Ver.),Forsythe,Rush_FTK
+2465,1,11,308,29,True,False,Plan B,Lee,SonjaTheSuperior11
+2443,2,15,462,29,True,False,Plan B,Brenner,SonjaTheSuperior11
+2279,2,7,134,29,True,True,Plan B,Lee,Mini Nini
+2243,2,12,330,29,True,True,Plan B,Lee,Mini Nini
+2178,1,12,291,29,True,True,Plan B,Lee,Mini Nini
+2458,1,17,839,32,True,False,Three River Gorge,Isabella,AdvanceWarrior
+2367,1,14,595,32,True,False,Three River Gorge,Tabitha,不是icy
+2290,1,14,480,32,True,False,Three River Gorge,Isabella,FUULROD
+2200,2,22,1225,32,True,False,Three River Gorge,Brenner,Mini Nini
+2189,1,11,402,32,True,False,Three River Gorge,Tabitha,ePiiC PaNiiC
+2170,2,21,1131,32,True,False,Three River Gorge,Forsythe,zhaotiantong
+2160,2,19,738,32,True,True,Three River Gorge,Isabella,quentin
+2113,2,25,1182,32,True,False,Three River Gorge,Forsythe,The Philanthropist
+2441,1,13,507,107,False,False,Rice Or Noodles,Hawk,AdvanceWarrior
+2410,2,14,541,107,False,False,Rice Or Noodles,Greyfield,不是icy
+2371,2,21,963,107,False,False,Rice Or Noodles,Greyfield,Chan ' tcho
+2291,2,14,567,107,False,False,Rice Or Noodles,Zhaotiantong,Mini Nini
+2269,2,22,1020,107,False,False,Rice Or Noodles,Greyfield,FUULROD
+2208,1,23,1138,107,False,False,Rice Or Noodles,Gage,Red-One
+2193,2,20,983,107,False,False,Rice Or Noodles,Grat,Aidan
+2187,1,16,655,107,False,False,Rice Or Noodles,Zhaotiantong,Mini Nini
+2169,1,28,1524,107,False,False,Rice Or Noodles,Gage,Red-One
+2039,1,21,964,107,False,False,Rice Or Noodles,Gage,Red-One
+2421,1,21,1078,117,True,False,Dragon Fang,Lin,Plague
+2195,2,9,249,117,True,False,Dragon Fang,Isabella,Mini Nini
+2141,1,8,212,117,True,False,Dragon Fang,Caulder,Rush_FTK
+2123,2,17,639,117,True,False,Dragon Fang,Forsythe,Super Vlad
+2111,2,13,408,117,True,False,Dragon Fang,Forsythe,Super Vlad
+2413,1,8,201,120,True,True,Defend from the invasion!,Grat,ePiiC PaNiiC
+2265,2,17,697,120,True,False,Defend from the invasion!,Caulder,Mini Nini
+2232,2,17,747,120,True,False,Defend from the invasion!,Waylon,Plague
+2220,2,15,569,120,True,False,Defend from the invasion!,Caulder,Mini Nini
+2219,1,15,588,120,True,False,Defend from the invasion!,Isabella,zhaotiantong
+2198,2,7,145,120,True,True,Defend from the invasion!,Forsythe,The Philanthropist
+2147,2,14,484,120,True,False,Defend from the invasion!,Zhaotiantong,Mini Nini
+2360,2,7,160,88,False,False,Tempest Frontline,Penny,Sliicer
+2283,2,7,176,88,False,False,Tempest Frontline,Greyfield,magicalpuffin
+2235,1,15,609,88,False,True,Tempest Frontline,Gage,Mini Nini
+2359,2,8,176,115,True,False,Cookie Island,Will,wacho789
+2341,2,21,737,115,True,False,Cookie Island,Penny,Sliicer
+2320,2,11,296,115,True,False,Cookie Island,Brenner,TashasSportsBra
+2300,2,12,327,115,True,False,Cookie Island,Brenner,SonjaTheSuperior11
+2238,1,8,188,115,True,True,Cookie Island,Penny,TashasSportsBra
+2145,2,13,372,115,True,False,Cookie Island,Tabitha,zhaotiantong
+2071,1,16,490,115,True,False,Cookie Island,Tabitha,不是icy
+2317,1,7,142,82,False,False,Isorhythm,Tabitha,不是icy
+2249,2,14,540,82,False,False,Isorhythm,Will,Mini Nini
+2205,2,14,548,82,False,False,Isorhythm,Hawk,Mini Nini
+2180,1,12,425,82,False,True,Isorhythm,Hawk,Mini Nini
+2101,2,6,112,82,False,True,Isorhythm,Lin,kaiser13
