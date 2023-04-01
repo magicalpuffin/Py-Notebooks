@@ -46,7 +46,7 @@ def get_co_ban_rate(co_name:str, ban_df:pd.DataFrame, replays:Iterable[int]) -> 
 
 def get_co_win_rate(co_name:str, pick_df:pd.DataFrame, replays:Iterable[int], replay_df:pd.DataFrame) -> pd.Series:
     '''
-    Get CO the win rate.
+    Get overall win rate of a CO. Only counts when the CO is picked. Excludes mirror matchups.
     '''
     picked_replays = get_co_picked_replays(co_name, pick_df, replays)
 
@@ -122,7 +122,10 @@ def get_co_matchup_win_rate(co_name:str, pick_df:pd.DataFrame, replays:Iterable[
     
     return co_matchup_winrate
 
-def get_co_matchup_table(co_name:str, pick_df:pd.DataFrame, replays:Iterable[int], replay_df:pd.DataFrame) -> pd.DataFrame:    
+def get_co_matchup_table(co_name:str, pick_df:pd.DataFrame, replays:Iterable[int], replay_df:pd.DataFrame) -> pd.DataFrame:
+    '''
+    Get the win, matches and win rate for each CO against every other CO
+    '''
     co_matchup_win = get_co_matchup_win(co_name, pick_df, replays, replay_df)
     co_matchup_total = get_co_matchup_total(co_name, pick_df,replays)
     co_matchup_win_rate = get_co_matchup_win_rate(co_name, pick_df, replays, replay_df)
@@ -134,6 +137,9 @@ def get_co_matchup_table(co_name:str, pick_df:pd.DataFrame, replays:Iterable[int
     return co_matchup_table
 
 def get_co_pickbanwin_table(co_list:list, pick_df:pd.DataFrame, ban_df:pd.DataFrame, replays:Iterable[int], replay_df:pd.DataFrame) -> pd.DataFrame:
+    '''
+    Get the overall pick, ban and win rate for a CO
+    '''
     co_pickbanwin_dict = {}
 
     for co_name in co_list:
@@ -148,6 +154,9 @@ def get_co_pickbanwin_table(co_list:list, pick_df:pd.DataFrame, ban_df:pd.DataFr
     return co_pickbanwin_df
 
 def improve_text_position(x):
+    '''
+    Alternates text position
+    '''
     # From: https://github.com/plotly/plotly.py/issues/925
     positions = ['top center', 'bottom center']
     return [positions[i % len(positions)] for i in range(len(x))]
