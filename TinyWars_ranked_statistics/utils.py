@@ -44,6 +44,27 @@ def get_co_ban_rate(co_name:str, ban_df:pd.DataFrame, replays:Iterable[int]) -> 
     ban_rate = len(banned_replays)/len(replays)
     return ban_rate
 
+def get_co_win_rate(co_name:str, pick_df:pd.DataFrame, replays:Iterable[int], replay_df:pd.DataFrame) -> pd.Series:
+    '''
+    Get CO the win rate.
+    '''
+    picked_replays = get_co_picked_replays(co_name, pick_df, replays)
+
+    picked_replay_df = replay_df.loc[picked_replays, :]
+    picked_pick_df = pick_df.loc[picked_replays, :]
+
+    replay_count = len(picked_replays)
+    win_count = picked_replay_df[picked_replay_df['winnerCoName'] == co_name]['winnerCoName'].count()
+    pick_count = picked_pick_df[picked_pick_df['coName'] == co_name]['coName'].count()
+
+    # CO picks are double counted during mirror matchups
+    mirrormatch_count = pick_count - replay_count
+
+    # Excludes mirror matchups in win rate calculation
+    win_rate = (win_count - mirrormatch_count) / (replay_count - mirrormatch_count)
+    
+    return win_rate
+
 def get_co_matchup_total(co_name:str, pick_df:pd.DataFrame, replays:Iterable[int]) -> pd.Series:
     '''
     Gets the count of total matchups against other CO.
@@ -111,3 +132,22 @@ def get_co_matchup_table(co_name:str, pick_df:pd.DataFrame, replays:Iterable[int
     co_matchup_table = co_matchup_table.sort_values(['matchupTotal'], ascending= False)
     
     return co_matchup_table
+
+def get_co_pickbanwin_table(co_list:list, pick_df:pd.DataFrame, ban_df:pd.DataFrame, replays:Iterable[int], replay_df:pd.DataFrame) -> pd.DataFrame:
+    co_pickbanwin_dict = {}
+
+    for co_name in co_list:
+        co_pickbanwin_dict[co_name] = {
+            'pickRate': get_co_pick_rate(co_name, pick_df, ban_df, replays),
+            'banRate': get_co_ban_rate(co_name, ban_df, replays),
+            'winRate': get_co_win_rate(co_name, pick_df, replays, replay_df)
+        }
+
+    co_pickbanwin_df = pd.DataFrame.from_dict(co_pickbanwin_dict, orient= 'index')
+    
+    return co_pickbanwin_df
+
+def improve_text_position(x):
+    # From: https://github.com/plotly/plotly.py/issues/925
+    positions = ['top center', 'bottom center']
+    return [positions[i % len(positions)] for i in range(len(x))]
