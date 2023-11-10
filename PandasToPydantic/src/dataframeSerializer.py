@@ -46,6 +46,9 @@ def serializeDataframe(data: pd.DataFrame, structure: dict):
     listFields = getListFields(structure)
     idField = baseFields[0]
 
+    if not listFields:
+        return data[baseFields].to_dict(orient="records")
+
     for value in data[idField].unique():
         sliceData = data[data[idField] == value]
 
