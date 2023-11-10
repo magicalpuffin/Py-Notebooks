@@ -1,3 +1,4 @@
+import pytest
 from pydantic import BaseModel
 from PandasToPydantic.src.dataframeSerializer import (
     expandAnnotation,
@@ -22,8 +23,11 @@ class ParentModel(BaseModel):
     parentString: str
     parentInteger: int
     parentFloat: float
-    parentListString: list[str]
     parentListChild: list[ChildModel]
+
+
+class BaseModelErrorModel(BaseModel):
+    modelErrorList: list[str]
 
 
 class Test_expandAnnotation:
@@ -43,3 +47,17 @@ class Test_expandAnnotation:
             "childListGrandChild": [expandAnnotation(GrandChildModel)],
         }
         assert expanded == target
+
+    def test_ParentModel(self):
+        expanded = expandAnnotation(ParentModel)
+        target = {
+            "parentString": str,
+            "parentInteger": int,
+            "parentFloat": float,
+            "parentListChild": [expandAnnotation(ChildModel)],
+        }
+        assert expanded == target
+
+    def test_BaseModelError(self):
+        with pytest.raises(TypeError):
+            expandAnnotation(BaseModelErrorModel)

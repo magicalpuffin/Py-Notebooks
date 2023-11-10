@@ -5,6 +5,9 @@ from typing import Union
 
 
 def expandAnnotation(model: BaseModel):
+    if not model.__base__ == BaseModel:
+        raise TypeError(f"{model} is not a BaseModel")
+
     annotations = model.__annotations__.copy()
 
     for key, fieldType in annotations.items():
