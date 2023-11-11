@@ -44,9 +44,11 @@ def serializeDataframe(data: pd.DataFrame, structure: dict):
     newList = []
     baseFields = getBaseFields(structure)
     listFields = getListFields(structure)
+    # Assumes first field is id
     idField = baseFields[0]
 
     if not listFields:
+        # Might be bad design, should ensure unique id
         return data[baseFields].to_dict(orient="records")
 
     for value in data[idField].unique():

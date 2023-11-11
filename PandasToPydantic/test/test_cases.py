@@ -26,6 +26,10 @@ class ParentModel(BaseModel):
     parentListChild: list[ChildModel]
 
 
+class EmptyModel(BaseModel):
+    pass
+
+
 class BaseModelErrorModel(BaseModel):
     modelErrorList: list[str]
 
@@ -58,6 +62,25 @@ class Test_expandAnnotation:
         }
         assert expanded == target
 
+    def test_EmptyModel(self):
+        expanded = expandAnnotation(EmptyModel)
+        target = {}
+        assert expanded == target
+
     def test_BaseModelError(self):
         with pytest.raises(TypeError):
             expandAnnotation(BaseModelErrorModel)
+
+
+class Test_getBaseFields:
+    def test_getBaseFields(self):
+        baseFields = getBaseFields(expandAnnotation(ParentModel))
+        target = ["parentString", "parentInteger", "parentFloat"]
+        assert baseFields == target
+
+
+class Test_getListFields:
+    def test_getListFields(self):
+        listFields = getListFields(expandAnnotation(ParentModel))
+        target = ["parentListChild"]
+        assert listFields == target
