@@ -1,10 +1,10 @@
 import pandas as pd
-from pydantic import BaseModel
+from pydantic import BaseModel, RootModel
+from pydantic._internal._model_construction import ModelMetaclass
 import types
-from typing import Union
 
 
-def expandAnnotation(model: BaseModel):
+def expandAnnotation(model: ModelMetaclass):
     if not model.__base__ == BaseModel:
         raise TypeError(f"{model} is not a BaseModel")
 
@@ -20,30 +20,30 @@ def expandAnnotation(model: BaseModel):
     return annotations
 
 
-def getBaseFields(structure: dict) -> list[str]:
+def getBaseFields(annotation: dict) -> list[str]:
     baseFields = []
 
-    for k, v in structure.items():
+    for k, v in annotation.items():
         if type(v) != list:
             baseFields.append(k)
 
     return baseFields
 
 
-def getListFields(structure: dict) -> list[str]:
+def getListFields(annotation: dict) -> list[str]:
     listFields = []
 
-    for k, v in structure.items():
+    for k, v in annotation.items():
         if type(v) == list:
             listFields.append(k)
 
     return listFields
 
 
-def serializeDataframe(data: pd.DataFrame, structure: dict):
+def serializeDataframe(data: pd.DataFrame, annotation: dict) -> list[dict]:
     newList = []
-    baseFields = getBaseFields(structure)
-    listFields = getListFields(structure)
+    baseFields = getBaseFields(annotation)
+    listFields = getListFields(annotation)
     # Assumes first field is id
     idField = baseFields[0]
 
@@ -57,10 +57,28 @@ def serializeDataframe(data: pd.DataFrame, structure: dict):
         baseDict = sliceData[baseFields].iloc[0].to_dict()
 
         if listFields:
+            # Only one list field is currently supported
             baseDict[listFields[0]] = serializeDataframe(
-                sliceData, structure[listFields[0]][0]
+                sliceData, annotation[listFields[0]][0]
             )
 
         newList.append(baseDict)
 
     return newList
+
+
+def getRootList(
+    serializedData: list[dict | ModelMetaclass], model: ModelMetaclass
+) -> RootModel:
+    RootList = RootModel[list[model]]
+    rootList = RootList(serializedData)
+
+    return rootList
+
+
+def dataframeToPydantic(data: pd.DataFrame, model: ModelMetaclass) -> RootModel:
+    targetAnnotation = expandAnnotation(model)
+    serializedData = serializeDataframe(data, targetAnnotation)
+    modelList = getRootList(serializedData, model)
+
+    return modelList
