@@ -29,21 +29,14 @@ targetLibrary1 = {
                     "Genre": "Fantasy",
                     "PublishedYear": 1997,
                     "AvailableCopies": 5,
-                }
-            ],
-        },
-        {
-            "AuthorID": 6,
-            "AuthorName": "J.R.R. Tolkien",
-            "AuthorBirthdate": "1892-01-03",
-            "BookList": [
+                },
                 {
-                    "BookID": 11,
-                    "Title": "The Hobbit",
+                    "BookID": 2,
+                    "Title": "Harry Potter and the Chamber of Secrets",
                     "Genre": "Fantasy",
-                    "PublishedYear": 1937,
-                    "AvailableCopies": 2,
-                }
+                    "PublishedYear": 1998,
+                    "AvailableCopies": 3,
+                },
             ],
         },
         {
