@@ -70,3 +70,17 @@ class Test_serialzeDataframe:
         library1 = libraryList[0]
 
         assert library1 == targetLibrary1
+
+    def test_parentIdNA(self):
+        dataCopy = data.copy()
+        dataCopy["LibraryID"] = dataCopy["LibraryID"].replace({1: None})
+
+        with pytest.raises(ValueError):
+            serializeDataframe(dataCopy, expandAnnotation(Library))
+
+    def test_childIdNA(self):
+        dataCopy = data.copy()
+        dataCopy["AuthorID"] = dataCopy["AuthorID"].replace({1: None})
+
+        with pytest.raises(ValueError):
+            serializeDataframe(dataCopy, expandAnnotation(Library))

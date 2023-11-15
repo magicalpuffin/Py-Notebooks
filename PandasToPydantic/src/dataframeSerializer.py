@@ -51,6 +51,9 @@ def serializeDataframe(data: pd.DataFrame, annotation: dict) -> list[dict]:
         # Might be bad design, should ensure unique id
         return data[baseFields].to_dict(orient="records")
 
+    if data[idField].isna().any():
+        raise ValueError(f"{idField} contains NA")
+
     for value in data[idField].unique():
         sliceData = data[data[idField] == value]
 
