@@ -56,6 +56,7 @@ numpy==1.26.1
 overrides==7.4.0
 packaging==23.2
 pandas==2.1.2
+pandas-to-pydantic==0.1.0
 pandocfilters==1.5.0
 parso==0.8.3
 pexpect==4.8.0
